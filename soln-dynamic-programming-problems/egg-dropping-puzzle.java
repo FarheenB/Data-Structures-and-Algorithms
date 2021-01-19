@@ -1,6 +1,8 @@
 /*
 https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/
 https://leetcode.com/problems/super-egg-drop/
+
+NOTE: Variation of Matrix Chain Multiplicaton Problem
 */
 
 import java.util.*;
@@ -21,18 +23,21 @@ class Solution {
 	    int min=Integer.MAX_VALUE;
 	    int low,high;
 	    for(int k=1;k<=f;k++){
+
 	        if(dp[e-1][k-1]!=-1)
 	            low=dp[e-1][k-1];
 	        else{
 	            dp[e-1][k-1]=solve(e-1,k-1,dp);
 	            low=dp[e-1][k-1];
 	        }
+
             if(dp[e][f-k]!=-1)
 	            high=dp[e][f-k];
 	        else{
 	            dp[e][f-k]=solve(e,f-k,dp);
 	            high=dp[e][f-k];
 	        }
+	        
 	        int temp=1+Math.max(low,high);
 	        min=Math.min(min,temp);
 	    }

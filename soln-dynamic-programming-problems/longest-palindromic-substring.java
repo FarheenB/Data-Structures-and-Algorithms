@@ -39,6 +39,13 @@ class Solution {
             }
 
         }
+       for(int i[]:dp){
+            for(int num:i){
+                System.out.print(num);
+            }
+            System.out.println();
+
+        }
         
         return max;
     }
