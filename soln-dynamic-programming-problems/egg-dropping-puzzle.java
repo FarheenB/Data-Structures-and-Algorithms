@@ -37,8 +37,9 @@ class Solution {
 	            dp[e][f-k]=solve(e,f-k,dp);
 	            high=dp[e][f-k];
 	        }
-	        
+	        //for worst case
 	        int temp=1+Math.max(low,high);
+	        //for minimum threshold
 	        min=Math.min(min,temp);
 	    }
 	    dp[e][f]=min;
