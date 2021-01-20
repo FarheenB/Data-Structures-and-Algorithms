@@ -7,8 +7,7 @@ import java.lang.*;
 import java.io.*;
 
 class Solution {
-    
-    static int chainMultiplication(int[] num) {
+    public int minScoreTriangulation(int[] num) {
         int t[][]=new int[num.length+1][num.length+1];
     
         for(int[] l:t)
@@ -32,7 +31,7 @@ class Solution {
             else
             {
                 left=solve(num,i,k,t);
-                t[i][j]=left;
+                t[i][k]=left;
             }
             
             if(t[k+1][j]!=-1)
@@ -49,5 +48,4 @@ class Solution {
         t[i][j]=min;
         return t[i][j];        
     }
-
 }

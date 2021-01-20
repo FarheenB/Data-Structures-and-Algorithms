@@ -1,6 +1,8 @@
 /*
 https://www.geeksforgeeks.org/check-if-a-string-is-a-scrambled-form-of-another-string/
 https://leetcode.com/problems/scramble-string/
+
+NOTE: Variation of Matrix Chain Multiplicaton Problem
 */
 
 import java.util.*;

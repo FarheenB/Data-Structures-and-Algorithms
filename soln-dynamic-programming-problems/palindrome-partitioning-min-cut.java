@@ -30,7 +30,7 @@ public int minCut(String str) {
         
         int min=Integer.MAX_VALUE;
         int left,right;
-        for(int k=i;k<j;k++){
+        for(int k=i;k<=j-1;k++){
             if(t[i][k]!=-1)
                 left= t[i][k];
             else
@@ -52,21 +52,6 @@ public int minCut(String str) {
         }
         t[i][j]=min;
         return t[i][j];        
-    }
-    
-    static boolean isPalindrome(String str, int i,int j){
-        if(i==j)
-            return true;
-        if(i>j)
-            return true;
-        while(i<j){
-            if(str.charAt(i)!=str.charAt(j))
-                return false;
-            i++;
-            j--;
-        }
-        return true;
-        
     }
 
 }
