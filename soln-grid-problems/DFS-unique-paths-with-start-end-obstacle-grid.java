@@ -7,47 +7,47 @@ import java.util.*;
 import java.lang.*;
 
 class Solution {
-    int ans = 0;
-    int totalzeroes = 1;
+    int totalPaths = 0;
     
     public int uniquePathsIII(int[][] grid) {
-        int row = -1;
-        int col = -1;
-        for(int i = 0; i < grid.length; i++){
-            for(int j =0; j < grid[0].length; j++){
-                if(grid[i][j] == 1){
-                    row = i;
-                    col = j;
-                }else if(grid[i][j] == 0){
-                    totalzeroes++;
-                }
+        int totalZeros = 0;
+        
+        for (int i=0; i < grid.length; i++) {
+            for (int j=0; j < grid[0].length; j++) {
+                if (grid[i][j] == 0) 
+                    totalZeros++;
             }
         }
         
-        dfs(grid, row, col);
-        return ans;
+        for (int i=0; i < grid.length; i++) {
+            for (int j=0; j < grid[0].length; j++) {
+                if (grid[i][j] == 1) 
+                    dfs(grid, i, j, totalZeros);
+            }
+        }
+        
+        return totalPaths;
     }
     
-    public void dfs(int [][]grid, int i, int j){
-        
-        if(i < 0 || j <0 || i >= grid.length || j >= grid[0].length || grid[i][j] < 0)
+    private void dfs(int[][] grid, int i, int j, int totalZeros) {
+        if (i < 0 || i >= grid.length || j < 0 || j >= grid[0].length || grid[i][j] == -1 || (grid[i][j] == 2 && totalZeros != 0)) 
             return;
         
-        if(grid[i][j] == 2){
-            if(totalzeroes == 0)
-            ans += 1;
+        if (grid[i][j] == 2 && totalZeros == 0) {
+            totalPaths++; 
             return;
         }
         
-        grid[i][j] = -2;
-        totalzeroes--;
-
-        dfs(grid, i+1,j);
-        dfs(grid, i-1,j);
-        dfs(grid, i,j+1);
-        dfs(grid, i,j-1);
-
+        if (grid[i][j] == 0) 
+            totalZeros--;
+        
+        grid[i][j] = -1;
+        
+        dfs(grid, i + 1, j, totalZeros);
+        dfs(grid, i - 1, j, totalZeros);
+        dfs(grid, i, j + 1, totalZeros);
+        dfs(grid, i, j - 1, totalZeros);
+                
         grid[i][j] = 0;
-        totalzeroes++;
-    }
+    }   
 }
