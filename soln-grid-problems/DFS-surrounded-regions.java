@@ -1,5 +1,6 @@
 /*
 https://leetcode.com/problems/surrounded-regions/
+https://www.interviewbit.com/problems/capture-regions-on-board/
 */
 
 import java.util.*;
@@ -16,22 +17,25 @@ class Solution {
         int row = board.length;
         int col = board[0].length;
 
-        // top boundry
+        // top boundry row-first
         for(int c=0; c<col; c++){
             if(board[0][c]=='O')
                 markBoundryZero(board, 0, c);
         }
-        // right boundry
+
+        // right boundry column-last
         for(int r=0; r<row; r++){
             if(board[r][col-1]=='O')
                  markBoundryZero(board, r, col-1);
         }
-        // bottom boundry
+
+        // bottom boundry row-last
         for(int c=0; c<col; c++){
             if(board[row-1][c]=='O')
                 markBoundryZero(board, row-1, c);
         }
-        // left boundry
+
+        // left boundry column-firsty
         for(int r=0; r<row; r++){
             if(board[r][0]=='O')
                 markBoundryZero(board, r, 0);
@@ -43,7 +47,7 @@ class Solution {
                 if(board[r][c]=='O'){
                     board[r][c]='X';
                 }
-                else if(board[r][c]=='B'){
+                else if(board[r][c]=='G'){
                     board[r][c]='O';
                 } 
             }
@@ -56,7 +60,9 @@ class Solution {
         }
 
         if(board[i][j]=='O'){
-            board[i][j]='B'; 
+            //G denoting gap
+            //look for all the gaps that can be tranversed from any one gap on the outer boundary
+            board[i][j]='G'; 
 
             markBoundryZero(board, i, j-1);
             markBoundryZero(board, i, j+1);
