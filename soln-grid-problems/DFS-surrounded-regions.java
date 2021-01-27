@@ -35,7 +35,7 @@ class Solution {
                 markBoundryZero(board, row-1, c);
         }
 
-        // left boundry column-firsty
+        // left boundry column-first
         for(int r=0; r<row; r++){
             if(board[r][0]=='O')
                 markBoundryZero(board, r, 0);
