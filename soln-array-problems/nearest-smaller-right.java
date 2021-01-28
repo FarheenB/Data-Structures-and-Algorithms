@@ -7,7 +7,7 @@ import java.lang.*;
 import java.io.*;
 
 class solve{
-        public static int[] nextSmallerElement(int[] nums, int n) { 
+    public static int[] nextSmallerElement(int[] nums) { 
         int[] output=new int[nums.length];
         //for storing the indicies
         Stack<Integer> stack=new Stack<>();
