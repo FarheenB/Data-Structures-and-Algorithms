@@ -22,27 +22,29 @@ import java.io.*;
  * }
  */
 class Solution {
-    int max_level = 0;
-    List<Integer> list=new ArrayList<>();
-
     public List<Integer> leftSideView(TreeNode root) {
     
-        leftView(root,1);
-        return list;
-    }    
- 
-    // recursive function to print left view
-    public void leftView(TreeNode node, int level)
-    {
-        if (node == null)
-            return;
- 
-        if (max_level < level) {
-            list.add(node.val);
-            max_level = level;
+        ArrayList<Integer> list=new ArrayList<>();
+        if(root==null)
+            return list;
+        
+        Queue<TreeNode> queue=new LinkedList<>();
+        queue.offer(root);
+        
+        while(!queue.isEmpty()){
+            list.add(queue.peek().val);
+            int size=queue.size();
+            
+            for(int i=1;i<=size;i++){
+                TreeNode x=queue.poll();
+                if(x.left!=null){
+                    queue.offer(x.left);
+                }
+                if(x.right!=null){
+                    queue.offer(x.right);
+                }
+            }
         }
- 
-        leftView(node.left, level + 1);
-        leftView(node.right, level + 1);
+        return list;
     }
 }

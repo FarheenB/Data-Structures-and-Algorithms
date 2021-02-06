@@ -20,19 +20,17 @@ import java.io.*;
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        if(head==null){
+        if(head==null)
             return false;
+        ListNode slowptr=head;
+        ListNode fastptr=head.next;
+        
+        while(fastptr!=null && fastptr.next!=null){
+            if(fastptr==slowptr)
+                return true;
+            slowptr=slowptr.next;
+            fastptr=fastptr.next.next;
         }
-        ListNode p=head;
-        ListNode q=head.next;
-
-        while(p!=q){
-            if(q==null || q.next==null){
-                return false;
-            }
-            p=p.next;
-            q=q.next.next;
-        }
-        return true;
+        return false;
     }
 }
