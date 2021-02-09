@@ -1,5 +1,7 @@
 /*
 https://www.geeksforgeeks.org/cutting-a-rod-dp-13/
+
+NOTE: Variation of Unbounded Knapsack
 */
 
 import java.util.*;
@@ -7,7 +9,6 @@ import java.lang.*;
 import java.io.*;
 
 class Solution {
-
 	public static int solve(int N, int price[], int length[]) 
     { 
         int dp[][]=new int[N+1][N+1];
@@ -38,6 +39,7 @@ class Solution {
             int length[]=new int[N];
             for(int i=0;i<N;i++){
                 v[i]=sc.nextInt();
+                //create cut length array
                 length[i]=i+1;
             }
             System.out.println(solve(N,v,length));
