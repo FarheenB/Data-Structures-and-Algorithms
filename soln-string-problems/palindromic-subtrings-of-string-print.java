@@ -1,39 +1,29 @@
-/*
-https://practice.geeksforgeeks.org/problems/distinct-palindromic-substrings/0
-*/
-
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
 class Solution {
+    List<String> result=new ArrayList<>();
     
-    HashSet<String> set=new HashSet<>();
-    
-    public int countPalindromeSubstrs(String s) {
+    public List<String> getPalindromeSubstrings(String s) {
         int count = 0;
 
         for (int i = 0; i < s.length(); ++i) {
             // odd-length palindromes, single character center
-            getPalindromes(s, i, i);
+            countPalindromes(s, i, i);
 
             // even-length palindromes, consecutive characters center
-            getPalindromes(s, i, i + 1);
+            countPalindromes(s, i, i + 1);
         }
-        return set.size();
+        return result;
     }
 
-    public void getPalindromes(String str, int left, int right) {
-        int count = 0;
-
+    public void countPalindromes(String str, int left, int right) {
         while (left >= 0 && right < str.length()) {
             if (str.charAt(left) != str.charAt(right))
-                break;   
-                
+                break; 
             String palind_str=str.substring(left,right+1);
-            if(!set.contains(palind_str)){
-                set.add(palind_str);
-            }
+            result.add(palind_str);
             
             left--;
             right++;

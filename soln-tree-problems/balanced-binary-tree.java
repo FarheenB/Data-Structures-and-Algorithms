@@ -22,8 +22,7 @@ import java.lang.*;
  *     }
  * }
  */
-class Solution {
-    
+class Solution {    
     boolean balance;
     public boolean isBalanced(TreeNode root) {
         balance=true;
@@ -38,15 +37,11 @@ class Solution {
         int l=height(root.left);
         int r=height(root.right);
         if(balance && (int)Math.abs(l-r)<=1)
-        {
             balance=true;
-        }
         else
             balance=false;
-        return (int)Math.max(l,r)+1;
         
-
-        
-    }
-        
+        //find height of subtree
+        return Math.max(l,r)+1;        
+    }        
 }

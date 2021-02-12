@@ -1,17 +1,14 @@
 /*
-https://www.geeksforgeeks.org/minimum-number-deletions-insertions-transform-one-string-another/
-https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1
+https://leetcode.com/problems/delete-operation-for-two-strings/
 */
 
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class Solution
-{
-    public int minOperations(String word1, String word2) 
-    { 
-        int n=word1.length();
+class Solution {
+    public int minDistance(String word1, String word2) {
+	    int n=word1.length();
         int m=word2.length();
         int subsequence=longestCommonSubsequence(word1,word2);
         return (n-subsequence)+(m-subsequence);
