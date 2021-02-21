@@ -14,7 +14,6 @@ class Solution {
         for(int i:nums){
             sum_given+=i;
         }
-        System.out.println(sum_given+" "+sum_natural);
         return sum_natural-sum_given;
     }
 }
