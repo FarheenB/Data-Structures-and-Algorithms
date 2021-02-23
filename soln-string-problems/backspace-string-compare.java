@@ -15,8 +15,7 @@ class Solution {
             if(stack1.pop()!=stack2.pop())
                 return false;
         } 
-
-        return stack1.isEmpty() && stack2.isEmpty()? true:false;
+        return stack1.isEmpty() && stack2.isEmpty();
     }
     
     private Stack<Character> insert(String str){
@@ -24,12 +23,11 @@ class Solution {
         char[] ch=str.toCharArray();
         for(char c:ch){
             if(c=='#'){
-                if(!stack.isEmpty()){
-                    stack.pop();                
-                }
-                continue;
+                if(!stack.isEmpty())
+                    stack.pop();  
             }
-            stack.push(c);
+            else
+                stack.push(c);
         }
         return stack;
     }    

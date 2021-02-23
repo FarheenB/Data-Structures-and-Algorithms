@@ -3,51 +3,54 @@ https://www.geeksforgeeks.org/shortest-distance-two-cells-matrix-grid/
 https://leetcode.com/problems/shortest-path-in-binary-matrix/
 */
 
-class Solution {
-    public class Coords{
-        int x;
-        int y;
-        Coords(int x, int y){
-            this.x=x;
-            this.y=y;
-        }
-    }
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class Coords{
+    int x;
+    int y;
     
+    Coords(int x, int y){
+        this.x=x;
+        this.y=y;
+    }
+}
+
+class Solution {
     public int shortestPathBinaryMatrix(int[][] grid) {
-        int N = grid.length;
-        
-        //check for blocker at the origin and destination 
-        if(grid[0][0] == 1 || grid[N-1][N-1] == 1) 
+        if(grid[0][0]==1 || grid[grid.length-1][grid[0].length-1]==1)
             return -1;
         
-        // right, bottom, left, top, top-left, top-right, bottom-left, bottom-right
-        int dx[] = { 1, 0, -1, 0, -1, 1, -1, 1 };
-        int dy[] = { 0, 1, 0, -1, -1, -1, 1, 1 };
-                
+        bfs(grid,0,0);
+        int dest=grid[grid.length-1][grid[0].length-1];
+        return dest==0?-1:dest;
+    }
+    
+    int[][] dirs={{1,0},{0,1},{-1,0},{0,-1},{1,1},{-1,-1},{-1,1},{1,-1}};
+    
+    public void bfs(int[][] grid, int i, int j){    
         Queue<Coords> queue=new LinkedList<>();
-        
-        //Enqueue the first coordinate
-        queue.add(new Coords(0, 0));
-        grid[0][0] = 1;
-        
-        while(!queue.isEmpty()) {
-            Coords s=queue.remove();
-            int distance=grid[s.x][s.y];
-            
-            if(s.x == N-1 && s.y == N-1) 
-                return distance;
-            
-            grid[s.x][s.y] = 1;
-            
-            for(int i = 0; i < 8; i++) {
-                int x = s.x + dx[i];
-                int y = s.y + dy[i];
-                if(x < 0 || x >= N || y < 0 || y >= N || grid[x][y]!=0) 
-                    continue;
-                queue.add(new Coords(x,y));
-                grid[x][y]=distance+1;
-            }
+        queue.add(new Coords(i,j));
+        int dist=1;
+        grid[i][j]+=dist;
+
+        while(!queue.isEmpty()){
+            int size=queue.size();
+            dist++;
+            for(int k=0;k<size;k++){
+                Coords cell=queue.poll();
+                    
+                for(int[] dir:dirs){
+                    int dir_x=cell.x+dir[0];
+                    int dir_y=cell.y+dir[1];
+                    
+                    if(dir_x>=0 && dir_x<grid.length && dir_y>=0 && dir_y<grid.length && grid[dir_x][dir_y]==0){
+                        grid[dir_x][dir_y]=dist;
+                        queue.add(new Coords(dir_x,dir_y));
+                    }
+                }
+            }   
         }
-        return -1;
     }
 }

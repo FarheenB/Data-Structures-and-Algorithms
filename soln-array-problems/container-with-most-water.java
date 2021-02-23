@@ -1,5 +1,6 @@
 /*
-https://leetcode.com/problems/scontainer-with-most-water
+https://www.interviewbit.com/problems/container-with-most-water/
+https://leetcode.com/problems/container-with-most-water/
 */
 
 import java.util.*;
@@ -11,13 +12,14 @@ class Solution {
         int maxArea=0;
         int left=0,right=height.length-1;
         while(left<right){
-            maxArea=Math.max(maxArea,Math.min(height[left],height[right])*(right-left));
-            if(height[left]<height[right]){
+            int h=Math.min(height[left],height[right];
+            int l=right-left;
+            maxArea=Math.max(maxArea,l*h);
+
+            if(height[left]<height[right])
                 left++;
-            }
-            else{
+            else
                 right--;
-            }
         }
         return maxArea;
     }
