@@ -24,32 +24,27 @@ import java.io.*;
  */
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> order=new ArrayList<>();
-        int level=-1;
-        if(root==null){
-            return order;
-        }
-       
+        List<List<Integer>> result=new ArrayList<>();
+        if(root==null)
+            return result;
+        
         Queue<TreeNode> queue=new LinkedList<>();
         queue.add(root);
-        
         while(!queue.isEmpty()){
-            level++;
-            int s=queue.size();
-            if(s!=0)
-                order.add(level, new ArrayList<Integer>());
-            for(int i=0;i<s;i++){
-                TreeNode x=queue.remove();
-                order.get(level).add(x.val);
-                if(x.left!=null){
-                    queue.add(x.left);
-                }
-                if(x.right!=null){
-                    queue.add(x.right);
-                }        
-            }          
+            int size=queue.size();
             
+            List<Integer> list=new ArrayList<Integer>();
+            for(int i=0;i<size;i++){
+                TreeNode node=queue.poll();
+                list.add(node.val);
+                
+                if(node.left!=null)
+                    queue.add(node.left);
+                if(node.right!=null)
+                    queue.add(node.right);
+            }          
+            result.add(list);
         }
-        return order;
+        return result;
     }
 }
