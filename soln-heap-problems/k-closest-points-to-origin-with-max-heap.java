@@ -8,12 +8,10 @@ import java.io.*;
 
 class Solution {
     public int[][] kClosest(int[][] points, int K) {
-        PriorityQueue<int[]> maxHeap=new PriorityQueue<>(K, (a,b)->b[0]-a[0]);
+        PriorityQueue<int[]> maxHeap=new PriorityQueue<>(K, (a,b)->(b[0]*b[0]+b[1]*b[1])-(a[0]*a[0]+a[1]*a[1]));
         
-        for(int i=0;i<points.length;i++){
-            int dist=(int)(points[i][0]*points[i][0]+points[i][1]*points[i][1]); 
-            
-            maxHeap.add(new int[]{dist,i});
+        for(int[] point:points){            
+            maxHeap.add(point);
             if(maxHeap.size()>K){
                 maxHeap.remove();
             }
@@ -22,9 +20,8 @@ class Solution {
         int[][] result=new int[maxHeap.size()][2];
         int i=0;
         while(!maxHeap.isEmpty()){
-            result[i++]=points[maxHeap.remove()[1]];
+            result[i++]=maxHeap.remove();
         }
         return result;
-
     }
 }

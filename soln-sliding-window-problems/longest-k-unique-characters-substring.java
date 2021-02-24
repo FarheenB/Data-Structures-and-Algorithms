@@ -30,27 +30,19 @@ class GFG {
 	    
 	    while(j<str.length){
 	        map.put(str[j],map.getOrDefault(str[j],0)+1);
-	        if(map.size()<k){
-	            j++;
-	        }
-	        else if(map.size()>k){
-    	        while(map.size()>k && i<str.length){
-    	            if(map.containsKey(str[i])){
-        	            if(map.get(str[i])>1){
-        	                map.put(str[i],map.get(str[i])-1);
-        	            }
-        	            else{
-        	                map.remove(str[i]);
-        	            }
-    	            }
-    	            i++;
-    	        }
-    	        j++;
-	        }
-	        else if(map.size()==k){
-	            max=Math.max(max,j-i+1);
-	            j++;
-	        }
+            
+	        if(map.size()==k)
+                max=Math.max(max,j-i+1);
+            
+            while(map.size()>k && i<str.length){
+                if(map.containsKey(str[i])){
+                    map.put(str[i],map.get(str[i])-1);
+                    if(map.get(str[i])==0)
+                        map.remove(str[i]);
+                }
+                i++;
+            }
+            j++;
 	    }
 	    return max!=Integer.MIN_VALUE?max:-1;
 	}
