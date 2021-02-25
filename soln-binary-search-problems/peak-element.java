@@ -2,6 +2,10 @@
 https://www.interviewbit.com/problems/find-a-peak-element/
 */
 
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
 public class Solution {
     public int solve(int[] nums) {
         return binarySearch(nums,0,nums.length-1);

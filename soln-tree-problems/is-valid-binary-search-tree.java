@@ -40,10 +40,11 @@ class Solution {
         }
         
         inorder(root.left);
+
+        //maintain inorder
         if (prev != null && result) 
             result=prev.val<root.val; 
         prev = root; 
-        inorder(root.right); 
-        
+        inorder(root.right);         
     }
 }
