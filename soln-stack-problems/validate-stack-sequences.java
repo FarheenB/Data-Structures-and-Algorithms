@@ -8,15 +8,16 @@ import java.io.*;
 
 class Solution {
     public boolean validateStackSequences(int[] pushed, int[] popped) {
-        Stack<Integer> stack=new Stack<>();
-        int i=0;
-        for(int num:pushed){
-            stack.push(num);
-            while(!stack.isEmpty() && i<pushed.length && stack.peek()==popped[i]){
+        Stack<Integer> stack=new Stack<>();        
+        int index=0;
+        
+        for(int i=0;i<pushed.length;i++){
+            stack.push(pushed[i]);
+            while(!stack.isEmpty() && popped[index]==stack.peek() && index<popped.length){
                 stack.pop();
-                i++;                
-            }
+                index++;
+            }                
         }
-        return i==pushed.length;
+        return stack.isEmpty()? true:false;        
     }
 }

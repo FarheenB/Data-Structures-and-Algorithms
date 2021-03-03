@@ -22,14 +22,15 @@ public class Solution {
     public boolean hasCycle(ListNode head) {
         if(head==null)
             return false;
+        
         ListNode slowptr=head;
-        ListNode fastptr=head.next;
+        ListNode fastptr=head;
         
         while(fastptr!=null && fastptr.next!=null){
-            if(fastptr==slowptr)
-                return true;
             slowptr=slowptr.next;
             fastptr=fastptr.next.next;
+            if(fastptr==slowptr)
+                return true;
         }
         return false;
     }
