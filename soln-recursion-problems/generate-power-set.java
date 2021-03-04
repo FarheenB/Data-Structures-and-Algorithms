@@ -9,18 +9,15 @@ import java.io.*;
 class Solution
 {
     List<String> result=new ArrayList<>();
-    public List<String> AllPossibleStrings(String s)
-    {
+    public List<String> AllPossibleStrings(String s){
         powerSet(s,0,"");
         result.remove(result.size()-1);
         Collections.sort(result);
         return result;
     }
     
-	void powerSet(String str, int index, String curr) 
-	{ 
-		if(index == str.length()) 
-		{ 
+	void powerSet(String str, int index, String curr){ 
+		if(index == str.length()){ 
 			result.add(curr);
 			return; 
 		} 

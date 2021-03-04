@@ -40,7 +40,10 @@ class Solution {
         
         board[i][j] = '*';
         
-        boolean found = dfs(i-1, j, board, word, k+1) || dfs(i+1, j, board, word, k+1) || dfs(i, j-1, board, word, k+1) || dfs(i, j+1, board, word, k+1);
+        boolean found = dfs(i-1, j, board, word, k+1) || 
+                        dfs(i+1, j, board, word, k+1) || 
+                        dfs(i, j-1, board, word, k+1) || 
+                        dfs(i, j+1, board, word, k+1);
         
         board[i][j] = word.charAt(k);
         return found;

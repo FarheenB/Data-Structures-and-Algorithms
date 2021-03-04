@@ -12,12 +12,10 @@ class Solution {
         int freq=0;
         List<Integer> list=new ArrayList<>();
         for(int i=0;i<nums.length;i++){
-            if(i%2==0){
+            if(i%2==0)
                 freq=nums[i];
-            }    
             else{
                 while(freq!=0 && j<nums.length){
-                    // System.out.println(nums[i]+" "+j);
                     list.add(nums[i]);
                     freq--;
                 }

@@ -7,8 +7,7 @@ import java.util.*;
 import java.lang.*;
 
 class MergeSort { 
-	void merge(int arr[], int l, int m, int r) 
-	{ 
+	void merge(int arr[], int l, int m, int r) { 
 		int n1 = m - l + 1; 
 		int n2 = r - m; 
 
@@ -47,8 +46,7 @@ class MergeSort {
 		} 
 	} 
 
-	void sort(int arr[], int l, int r) 
-	{ 
+	void sort(int arr[], int l, int r) { 
 		if (l < r) { 
 
 			int m = (l + r) / 2; 
@@ -59,8 +57,7 @@ class MergeSort {
 		} 
 	} 
 
-	void printArray(int arr[]) 
-	{ 
+	void printArray(int arr[]) { 
 		int n = arr.length; 
 		for (int i = 0; i < n; ++i) 
 			System.out.print(arr[i] + " "); 
@@ -68,8 +65,7 @@ class MergeSort {
 	} 
 
 	// Driver method 
-	public static void main(String args[]) 
-	{ 
+	public static void main(String args[]) { 
 		int arr[] = { 12, 11, 13, 5, 6, 7 }; 
 
 		System.out.println("Given Array"); 

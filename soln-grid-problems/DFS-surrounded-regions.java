@@ -41,7 +41,7 @@ class Solution {
                 markBoundryZero(board, r, 0);
         }
 
-        // now convert closed zero into 'X' and 'B' to 'O'
+        // now convert closed zero into 'X' and 'G' to 'O'
         for(int r=0; r<row; r++){
             for(int c=0; c<col; c++){
                 if(board[r][c]=='O'){
