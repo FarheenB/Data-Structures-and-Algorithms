@@ -26,20 +26,20 @@ class Solution{
 			Pair vertex_pair=minHeap.remove();
 			int node=vertex_pair.v;
 			
-    		for(int i=0;i<n;i++){
-    			if(adj_matrix[node][i]!=0){
-    				int weight=adj_matrix[node][i];
-    				int newDistance=distance[node]+weight;
-	    			if(distance[i]==-1 || distance[i]>newDistance){
-	    				distance[i]=newDistance;
-		    			minHeap.add(new Pair(i,distance[i]));
-		    			pred[i]=node;
-	    			}
-    			}
-    		}
+			for(int i=0;i<n;i++){
+				if(adj_matrix[node][i]!=0){
+					int weight=adj_matrix[node][i];
+					int newDistance=distance[node]+weight;
+					if(distance[i]==-1 || distance[i]>newDistance){
+						distance[i]=newDistance;
+						minHeap.add(new Pair(i,distance[i]));
+						pred[i]=node;
+					}
+				}
+			}
     	}
     	
-	    ArrayList<Integer> path=new ArrayList<>();
+		ArrayList<Integer> path=new ArrayList<>();
 		if(distance[dest]!=-1){
 			int x=dest;
 			path.add(x);
@@ -55,7 +55,7 @@ class Solution{
 		
 		System.out.println("Shortest Path from "+source+" to "+dest );
 		for(int nodes:path)
-			System.out.print(nodes+" ");	
+			System.out.print(nodes+" ");			
 	}
 }
   

@@ -20,9 +20,9 @@ class Solution {
 		String newX="";
 		for(int i=0;i<X.length();i++){
 			if(Character.isUpperCase(X.charAt(i)))
-	            newX+=Character.toLowerCase(X.charAt(i));
+				newX+=Character.toLowerCase(X.charAt(i));
 	        else
-	            newX+=Character.toUpperCase(X.charAt(i));
+	        	newX+=Character.toUpperCase(X.charAt(i));
 	    }    	
     	return newX;
 	}

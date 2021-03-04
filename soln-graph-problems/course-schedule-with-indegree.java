@@ -16,8 +16,7 @@ class Solution {
         for(int edge[]:prerequisites)
             adj_list[edge[1]].add(edge[0]);
         
-        indegree=new int[n];
-        
+        indegree=new int[n];        
         for(ArrayList<Integer> nodes:adj_list){
             for(int v:nodes)
                 indegree[v]++;

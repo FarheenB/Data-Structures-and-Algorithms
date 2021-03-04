@@ -9,7 +9,7 @@ import java.io.*;
 
 class Solution {
     boolean[] visited;
-    int[][] adj_matrix;
+    int[][] adj_list;
     List<List<Integer>> possible_paths=new ArrayList<>();
     
     public List<List<Integer>> allPathsSourceTarget(int[][] graph) {
@@ -22,9 +22,8 @@ class Solution {
             for(int v:edges)
                 d=Math.max(d,v);
         int n=d+1;        
-        adj_matrix=graph;
+        adj_list=graph;
         visited=new boolean[n];     
-        
         List<Integer> path=new ArrayList<>();
         path.add(s);
         dfs(s,d,path);
@@ -39,7 +38,7 @@ class Solution {
   
         visited[source]=true;
 
-        for(int adj_node:adj_matrix[source]){
+        for(int adj_node:adj_list[source]){
             if(!visited[adj_node]){        
                 path.add(adj_node);
                 dfs(adj_node,dest,path);

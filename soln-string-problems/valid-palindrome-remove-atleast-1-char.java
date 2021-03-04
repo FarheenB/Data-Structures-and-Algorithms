@@ -21,13 +21,11 @@ class Solution {
         return true;
     }
     public boolean isPalindrome(char ch[], int i, int j){
-        while(i<j)
-        { 
+        while(i<j){ 
             if(ch[i]!=ch[j])
                 return false;
             i++;
-            j--;
-            
+            j--;            
         }
         return true;
     }

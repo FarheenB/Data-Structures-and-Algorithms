@@ -11,6 +11,7 @@ class Solution {
     public int minSteps(String s, String t) {
         return isAnagram(s,t);
     }
+    
     public int isAnagram(String s, String t) {
         int counts[]=new int[26];
         int steps=0;
@@ -21,11 +22,8 @@ class Solution {
         
         for(int i: counts){
             if(i<0)
-            {
                 steps=steps-(i);
-            }
         }
-        return steps;
-        
+        return steps;        
     }
 }
