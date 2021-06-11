@@ -1,5 +1,5 @@
 # Data Structures and Algorithms
-This respository is a collection of readable and clean implementations of data structures and algorithms in JAVA. This is a work in progress, so some algorithms may not be included. The solution to some of the popular problems statements from Leetcode, Geeksforgeeks, Interviewbit etc are also added. All solutions that have been added have been tested extensively and should be accurate, readable, and efficient. Feel free to suggest any algorithms that you'd like to see implemented in the future. If you have any questions, requests, or find any error in the provided solutions, please don't hesitate to contact me (my contact information is at the bottom of this file). If you found this repository helpful, I'd love to know :) 
+This respository is a collection of readable and clean implementation of data structures and algorithms in JAVA. This is a work in progress, so some algorithms may not be included. The optimised solution to some of the popular problems from Leetcode, Geeksforgeeks, Interviewbit etc. are also added. Feel free to suggest any algorithms that you'd like to see implemented in the future. If you have any questions, requests, or find any error in the provided solutions, please don't hesitate to contact me (my contact information is at the bottom of this file). If you found this repository helpful, I'd love to know :) 
 
 ## Table of Contents
 
@@ -91,7 +91,6 @@ This respository is a collection of readable and clean implementations of data s
 * Fisher-Yates Shuffle
 * Kadane's Algorithm
 * Subarray Inversions
-* Data Structures
 
 ## Developed By
 
