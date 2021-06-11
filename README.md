@@ -96,4 +96,5 @@ This respository is a collection of readable and clean implementations of data s
 ## Developed By
 
 Farheen Bano - farheenbano94@gmail.com
-<img src="https://user-images.githubusercontent.com/59408650/121718622-1eac9f00-cb00-11eb-9688-47ebd1cad51f.png" width="40" height="40">
+
+<img src="https://user-images.githubusercontent.com/59408650/121718622-1eac9f00-cb00-11eb-9688-47ebd1cad51f.png" width="30" height="30">
