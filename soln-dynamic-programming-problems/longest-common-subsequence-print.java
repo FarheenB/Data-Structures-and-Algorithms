@@ -60,11 +60,11 @@ class Solution {
         return subsequence.reverse().toString();
     }
     
-	//Driver method to test the above method
+    //Driver method to test the above method
     public static void main (String[] args) {
         Scanner sc=new Scanner(System.in);
         String a= sc.next();
         String b= sc.next();
         System.out.println(printLCS(a,b));            
-	}
+    }
 }
