@@ -1,8 +1,11 @@
 /*
-https://www.geeksforgeeks.org/subset-sum-problem-dp-25/
-https://www.interviewbit.com/problems/subset-sum-problem/
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/subset-sum-problem-dp-25/
+ https://www.interviewbit.com/problems/subset-sum-problem/
 
-NOTE: Variation of 0/1 Knapsack
+ NOTE: Variation of 0/1 Knapsack
 */
 
 import java.util.*;
