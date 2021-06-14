@@ -1,10 +1,10 @@
 /*
  @author Farheen Bano
 
- * Given two strings how many minimum edits(update, delete or add) is needed to convert one string to another
+ Given two strings how many minimum edits(update, delete or add) is needed to convert one string to another
  
- * Time complexity is O(m*n)
- * Space complexity is O(m*n)
+ Time complexity is O(m*n)
+ Space complexity is O(m*n)
  
  References- 
  https://www.interviewbit.com/problems/edit-distance/
