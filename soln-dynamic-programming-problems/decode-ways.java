@@ -1,6 +1,9 @@
 /*
-https://www.geeksforgeeks.org/count-possible-decodings-given-digit-sequence/
-https://leetcode.com/problems/decode-ways/
+ @author Farheen Bano
+
+ References- 
+ https://www.geeksforgeeks.org/count-possible-decodings-given-digit-sequence/
+ https://leetcode.com/problems/decode-ways/
 */
 
 import java.util.*;
