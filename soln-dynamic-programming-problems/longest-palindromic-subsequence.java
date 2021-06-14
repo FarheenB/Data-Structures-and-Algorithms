@@ -1,14 +1,16 @@
 /*
-https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/
-https://leetcode.com/problems/longest-palindromic-subsequence/
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/
+ https://leetcode.com/problems/longest-palindromic-subsequence/
 */
 
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class Solution {
-    
+class Solution {    
     public int longestPalindromeSubseq(String s) {
         String reverse_s=new StringBuilder(s).reverse().toString();
         return longestCommonSubsequence(s,reverse_s);
