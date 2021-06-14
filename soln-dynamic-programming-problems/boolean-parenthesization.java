@@ -1,7 +1,10 @@
 /*
-https://www.geeksforgeeks.org/boolean-parenthesization-problem-dp-37/
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/boolean-parenthesization-problem-dp-37/
 
-NOTE: Variation of Matrix Chain Multiplicaton Problem
+ NOTE: Variation of Matrix Chain Multiplicaton Problem
 */
 
 import java.util.*;
@@ -75,6 +78,7 @@ class Solution{
                     temp_ans=temp_ans+leftTrue*rightFalse+leftFalse*rightTrue+leftFalse*rightFalse;
                 }
             }
+            
             //Evaluate OR operation
             else if(str.charAt(k)=='|'){
                 if(isTrue==1){
@@ -84,6 +88,7 @@ class Solution{
                     temp_ans=temp_ans+leftFalse*rightFalse;
                 }
             }
+            
             //Evaluate XOR operation
             else if(str.charAt(k)=='^'){
                 if(isTrue==1){
