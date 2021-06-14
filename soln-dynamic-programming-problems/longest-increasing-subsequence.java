@@ -1,6 +1,9 @@
 /*
-https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/
-https://leetcode.com/problems/longest-increasing-subsequence/
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/
+ https://leetcode.com/problems/longest-increasing-subsequence/
 */
 
 import java.util.*;
