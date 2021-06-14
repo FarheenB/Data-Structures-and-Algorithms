@@ -1,8 +1,11 @@
 /*
-https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/
-https://leetcode.com/problems/super-egg-drop/
+ @author Farheen Bano
+ 
+ References- 
+ https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/
+ https://leetcode.com/problems/super-egg-drop/
 
-NOTE: Variation of Matrix Chain Multiplicaton Problem
+ NOTE: Variation of Matrix Chain Multiplicaton Problem
 */
 
 import java.util.*;
