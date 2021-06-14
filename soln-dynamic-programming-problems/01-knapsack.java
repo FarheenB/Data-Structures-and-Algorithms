@@ -1,15 +1,22 @@
 /*
-https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+ @author Farheen Bano
+ 
+ 0/1 Knapsack Problem - Given items of certain weights/values and maximum allowed weight
+ how to pick items to pick items from this set to maximize sum of value of items such that
+ sum of weights is less than or equal to maximum allowed weight.
+ 
+ Time complexity - O(W*total items)
+ 
+ References -
+ https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
 */
 
 import java.io.*;
 import java.util.*;
 import java.lang.*;
 
-class Solution {
-    
-    public static int solve(int N, int W, int []wt, int[] val)
-    { 
+class Solution {    
+    public static int solve(int N, int W, int []wt, int[] val) { 
         int dp[][] = new int [N+1][W+1]; 
         for (int i = 0; i <= N; i++) { 
             for (int j = 0; j <= W; j++) {
@@ -20,8 +27,7 @@ class Solution {
                 else
                     dp[i][j] = dp[i - 1][j]; 
             } 
-        } 
-          
+        }          
         return dp[N][W]; 
     } 
 
