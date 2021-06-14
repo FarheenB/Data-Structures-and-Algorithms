@@ -1,6 +1,9 @@
 /*
-https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/
-https://leetcode.com/problems/longest-common-subsequence/
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/
+ https://leetcode.com/problems/longest-common-subsequence/
 */
 
 import java.util.*;
