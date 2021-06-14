@@ -1,5 +1,8 @@
 /*
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
 */
 
 import java.util.*;
