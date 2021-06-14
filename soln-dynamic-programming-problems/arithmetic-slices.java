@@ -1,5 +1,8 @@
 /*
-https://leetcode.com/problems/arithmetic-slices/
+ @author Farheen Bano
+  
+ References-
+ https://leetcode.com/problems/arithmetic-slices/
 */
 
 import java.util.*;
