@@ -1,6 +1,9 @@
 /*
-https://www.geeksforgeeks.org/wildcard-pattern-matching/
-https://leetcode.com/problems/wildcard-matching/
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/wildcard-pattern-matching/
+ https://leetcode.com/problems/wildcard-matching/
 */
 
 import java.util.*;
@@ -47,5 +50,4 @@ class Solution {
         }
         return dp[str.length][ind];
     }
-
 }
