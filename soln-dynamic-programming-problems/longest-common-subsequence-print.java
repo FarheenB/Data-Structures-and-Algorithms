@@ -1,12 +1,15 @@
 /*
-https://www.geeksforgeeks.org/printing-longest-common-subsequence/
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/printing-longest-common-subsequence/
 */
 
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class GFG {
+class Solution {
     public static int[][] longestCommonSubsequence(String text1, String text2) {
         int n=text1.length();
         int m=text2.length();
