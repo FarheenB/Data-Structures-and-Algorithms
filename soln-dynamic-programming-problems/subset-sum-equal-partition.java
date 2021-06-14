@@ -1,6 +1,9 @@
 /*
-https://www.geeksforgeeks.org/partition-problem-dp-18/
-https://leetcode.com/problems/partition-equal-subset-sum/
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/partition-problem-dp-18/
+ https://leetcode.com/problems/partition-equal-subset-sum/
 */
 
 import java.util.*;
@@ -8,8 +11,7 @@ import java.lang.*;
 import java.io.*;
 
 class Solution{
-    static int equalPartition(int N, int arr[])
-    {
+    static int equalPartition(int N, int arr[]) {
         int sum=0;
         for(int i=0;i<arr.length;i++)
             sum+=arr[i];
@@ -19,9 +21,7 @@ class Solution{
         return isSubsetSum(arr,N,sum/2)?1:-1 ;
     }
 
-	public static boolean isSubsetSum(int arr[], int N, int sum)
-    { 
-        
+    public static boolean isSubsetSum(int arr[], int N, int sum) { 
         boolean [][]dp = new boolean [N+1][sum+1];
         
         for (int i = 0; i <= N; i++) 
