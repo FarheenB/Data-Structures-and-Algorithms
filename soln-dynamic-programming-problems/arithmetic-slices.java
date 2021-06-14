@@ -1,7 +1,7 @@
 /*
  @author Farheen Bano
   
- References-
+ Reference-
  https://leetcode.com/problems/arithmetic-slices/
 */
 
