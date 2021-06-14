@@ -1,8 +1,11 @@
 /*
-https://www.geeksforgeeks.org/coin-change-dp-7/
-https://leetcode.com/problems/coin-change/
+ @author Farheen Bano
 
-NOTE: Variation of Unbounded Knapsack
+ References- 
+ https://www.geeksforgeeks.org/coin-change-dp-7/
+ https://leetcode.com/problems/coin-change/
+ 
+ NOTE: Variation of Unbounded Knapsack Problem
 */
 
 import java.util.*;
