@@ -1,3 +1,10 @@
+/*
+ @author Farheen Bano
+  
+ Reference-
+ https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1
+*/
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
