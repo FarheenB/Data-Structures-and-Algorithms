@@ -1,7 +1,10 @@
 /*
-https://www.geeksforgeeks.org/find-if-a-string-is-interleaved-of-two-other-strings-dp-33/
-https://www.interviewbit.com/problems/interleaving-strings/
-https://leetcode.com/problems/interleaving-string
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/find-if-a-string-is-interleaved-of-two-other-strings-dp-33/
+ https://www.interviewbit.com/problems/interleaving-strings/
+ https://leetcode.com/problems/interleaving-string
 */
 
 import java.util.*;
