@@ -1,15 +1,17 @@
 /*
-https://www.interviewbit.com/problems/repeating-subsequence/
-https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/repeating-subsequence/
+ https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1
 */
 
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class Solution
-{
-    public int LongestRepeatingSubsequence(String str){
+class Solution {
+    public int LongestRepeatingSubsequence(String str) {
         return modified_longestCommonSubsequence(str,str);
     }
     
