@@ -1,7 +1,10 @@
 /*
-https://leetcode.com/problems/coin-change-2/
+ @author Farheen Bano
 
-NOTE: Variation of Unbounded Knapsack
+ Reference- 
+ https://leetcode.com/problems/coin-change-2/
+
+ NOTE: Variation of Unbounded Knapsack Problem
 */
 
 import java.util.*;
