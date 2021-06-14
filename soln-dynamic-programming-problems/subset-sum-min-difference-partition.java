@@ -1,8 +1,11 @@
 /*
-https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/
-https://www.interviewbit.com/problems/minimum-difference-subsets/
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/
+ https://www.interviewbit.com/problems/minimum-difference-subsets/
 
-NOTE: Variation of 0/1 Knapsack
+ NOTE: Variation of 0/1 Knapsack
 */
 
 import java.util.*;
