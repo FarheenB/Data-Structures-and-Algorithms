@@ -1,7 +1,10 @@
 /*
-https://www.geeksforgeeks.org/count-of-subsets-with-sum-equal-to-x/
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/count-of-subsets-with-sum-equal-to-x/
 
-NOTE: Variation of 0/1 Knapsack
+ NOTE: Variation of 0/1 Knapsack Problem
 */
 
 import java.util.*;
@@ -9,13 +12,11 @@ import java.lang.*;
 import java.io.*;
 
 class Solution {
-
     public static int numSubseq(int[] nums, int target) {
-	    return countSubsetSum(nums,target);
-	} 
+	return countSubsetSum(nums,target);
+    } 
 	
-    public static int countSubsetSum(int[] A, int sum)
-	{
+    public static int countSubsetSum(int[] A, int sum) {
         int[][] dp=new int[A.length+1][sum+1];
         
         for(int i=0;i<dp.length;i++){
@@ -38,5 +39,5 @@ class Solution {
         }
         
         return dp[A.length][sum];
-	}
+    }
 }
