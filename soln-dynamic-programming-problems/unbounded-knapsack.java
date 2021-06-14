@@ -1,5 +1,8 @@
 /*
-https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/
 */
 
 import java.io.*;
@@ -7,8 +10,7 @@ import java.util.*;
 import java.lang.*;
 
 class Solution{
-    static int knapSack(int N, int W, int val[], int wt[])
-    {
+    static int knapSack(int N, int W, int val[], int wt[]) {
         int dp[][]=new int[N+1][W+1];
         
         for(int i=0;i<=N;i++){
