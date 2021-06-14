@@ -7,7 +7,7 @@
  
  Time complexity - O(W*total items)
  
- References -
+ Reference-
  https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
 */
 
