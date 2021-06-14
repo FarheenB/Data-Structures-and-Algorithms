@@ -1,8 +1,19 @@
 /*
-Fibonacci Series using Dynamic Programming
-
-https://leetcode.com/problems/fibonacci-number/
-https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/
+ @author Farheen Bano
+ 
+ Fibonacci series
+ Given a number find the fibonacci series value for that number
+ e.g n = 3 -> 3
+     n = 4 -> 5
+     n = 5 -> 8
+   
+ Solution
+ Recursively it can be calculated by f(n) = f(n-1) + f(n-2)
+ Using DP we do not recalculate f(n-1) and f(n-2)
+ 
+ References- 
+ https://leetcode.com/problems/fibonacci-number/
+ https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/
 */
 
 import java.io.*;
