@@ -1,5 +1,8 @@
 /*
-https://leetcode.com/problems/longest-repeating-substring
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/longest-repeating-substring
 */
 
 import java.util.*;
