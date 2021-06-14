@@ -1,7 +1,10 @@
 /*
-https://leetcode.com/problems/burst-balloons/
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/burst-balloons/
 
-NOTE: Variation of Matrix Chain Multiplicaton Problem
+ NOTE: Variation of Matrix Chain Multiplicaton Problem
 */
 
 import java.util.*;
@@ -10,7 +13,6 @@ import java.io.*;
 
 class Solution {
     public int maxCoins(int[] nums) {
-
         int n = nums.length + 2;
         int[] new_nums = new int[n];//new array with additional 2 balloons to cover boundaries 
 
@@ -36,20 +38,17 @@ class Solution {
         int max=0;
         
         int left,right;
-        for(int k=i+1;k<j;k++){
-            
+        for(int k=i+1;k<j;k++){            
             if(t[i][k]!=-1)
                 left= t[i][k];
-            else
-            {
+            else{
                 left=solve(nums,i,k,t);
                 t[i][k]=left;
             }
             
             if(t[k][j]!=-1)
                 right=t[k][j];
-            else
-            {
+            else{
                 right=solve(nums,k,j,t);
                 t[k][j]=right;
             }
