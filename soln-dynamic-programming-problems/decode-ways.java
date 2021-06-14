@@ -20,8 +20,7 @@ class Solution {
         dp[0]=1;
         dp[1]= (s.charAt(0)!='0')?1:0;
 
-        for(int i=2;i<=s.length();i++)
-        {
+        for(int i=2;i<=s.length();i++) {
             int oneDigit= Integer.parseInt(s.substring(i-1,i)); 
             int twoDigit= Integer.parseInt(s.substring(i-2,i));
 
