@@ -1,5 +1,8 @@
 /*
-https://www.geeksforgeeks.org/print-longest-common-substring/
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/print-longest-common-substring/
 */
 
 import java.util.*;
