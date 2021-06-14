@@ -1,7 +1,10 @@
 /*
-https://leetcode.com/problems/target-sum/
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/target-sum/
 
-NOTE: Variation of 0/1 Knapsack and count subset sum with given difference
+ NOTE: Variation of 0/1 Knapsack and count subset sum with given difference
 */
 
 public class Solution {
