@@ -1,8 +1,13 @@
 /*
-https://leetcode.com/problems/climbing-stairs/
-https://www.geeksforgeeks.org/count-ways-reach-nth-stair/
+ @author Farheen Bano
+  
+ Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
+ 
+ References-
+ https://leetcode.com/problems/climbing-stairs/
+ https://www.geeksforgeeks.org/count-ways-reach-nth-stair/
 
-Note: either climb 1 or 2 steps
+ NOTE: Variation of Fibinacci Series
 */
 
 import java.io.*;
