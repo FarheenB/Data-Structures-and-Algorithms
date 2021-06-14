@@ -1,6 +1,9 @@
 /*
-https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0#
-https://leetcode.com/problems/longest-palindromic-substring/
+ @author Farheen Bano
+  
+ References-
+ https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0#
+ https://leetcode.com/problems/longest-palindromic-substring/
 */
 
 import java.util.*;
