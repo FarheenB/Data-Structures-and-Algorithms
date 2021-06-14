@@ -1,5 +1,8 @@
 /*
-https://leetcode.com/problems/integer-break/
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/integer-break/
 */
 
 class Solution {
