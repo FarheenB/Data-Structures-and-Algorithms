@@ -1,5 +1,8 @@
 /*
-https://leetcode.com/problems/3sum-closest/
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/3sum-closest/
 */
 
 import java.util.*;
