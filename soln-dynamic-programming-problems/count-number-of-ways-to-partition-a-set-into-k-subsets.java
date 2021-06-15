@@ -1,4 +1,4 @@
-/*
+/**
  @author Farheen Bano
 
  Reference- 
@@ -10,8 +10,7 @@ import java.lang.*;
 import java.io.*;
 
 class Solution{
-	static int countP(int n, int k) 
-	{ 
+	static int countP(int n, int k) {
 		int[][] dp = new int[n+1][k+1]; 
 
 		for (int i = 0; i <dp.length; i++) 
