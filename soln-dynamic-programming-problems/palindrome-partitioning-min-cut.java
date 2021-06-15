@@ -1,7 +1,10 @@
 /*
-https://leetcode.com/problems/palindrome-partitioning-ii/
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/palindrome-partitioning-ii/
 
-NOTE: Variation of Matrix Chain Multiplicaton Problem
+ NOTE: Variation of Matrix Chain Multiplicaton Problem
 */
 
 import java.util.*;
@@ -9,7 +12,7 @@ import java.lang.*;
 import java.io.*;
 
 class Solution {
-public int minCut(String str) {
+    public int minCut(String str) {
         int t[][]=new int[str.length()+1][str.length()+1];
     
         for(int[] l:t)
@@ -53,5 +56,4 @@ public int minCut(String str) {
         t[i][j]=min;
         return t[i][j];        
     }
-
 }
