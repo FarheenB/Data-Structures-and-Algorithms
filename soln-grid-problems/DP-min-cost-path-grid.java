@@ -1,20 +1,21 @@
-/* 
-https://www.geeksforgeeks.org/min-cost-path-dp-6/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/min-cost-path-dp-6/
 */
 
 import java.io.*;
 import java.util.*;
 import java.lang.*;
 
-class MinimumCostPath
-{
+class MinimumCostPath {
     public int min(int a,int b, int c){
         int l = Math.min(a, b);
         return Math.min(l, c);
     }
     
-    private static int minCost(int cost[][], int m, int n)
-    {
+    private static int minCost(int cost[][], int m, int n) {
         int i, j;
         int dp[][]=new int[m+1][n+1];
 
@@ -34,8 +35,7 @@ class MinimumCostPath
     }
 
     /* Driver method to test above functions */
-    public static void main(String args[])
-    {
+    public static void main(String args[]) {
         int cost[][]= {{1, 2, 3},
                     {4, 8, 2},
                     {1, 5, 3}};
