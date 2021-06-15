@@ -1,5 +1,8 @@
 /*
-https://leetcode.com/problems/check-if-it-is-a-straight-line/
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/check-if-it-is-a-straight-line/
 */
 
 class Solution {
