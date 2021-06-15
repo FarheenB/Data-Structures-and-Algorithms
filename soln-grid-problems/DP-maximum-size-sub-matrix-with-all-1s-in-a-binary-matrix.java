@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/maximum-size-sub-matrix-with-all-1s-in-a-binary-matrix/
-https://leetcode.com/problems/maximal-square/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/maximum-size-sub-matrix-with-all-1s-in-a-binary-matrix/
+ https://leetcode.com/problems/maximal-square/
 */
 
 import java.util.*;
