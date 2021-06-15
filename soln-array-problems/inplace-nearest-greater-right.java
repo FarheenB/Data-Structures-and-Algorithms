@@ -1,5 +1,8 @@
 /*
-https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
 */
 
 import java.util.*;
