@@ -1,6 +1,9 @@
 /*
-https://www.interviewbit.com/problems/repeat-and-missing-number-array/
-https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/repeat-and-missing-number-array/
+ https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1
 */
 
 import java.util.*;
