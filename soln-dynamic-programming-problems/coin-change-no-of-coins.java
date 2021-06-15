@@ -1,8 +1,13 @@
-/*
+/**
  @author Farheen Bano
 
+ Given a total and coins of certain denomination with infinite supply, what is the minimum number
+ of coins it takes to form this total.
+ 
+ Time complexity - O(coins.size * total)
+ Space complexity - O(coins.size * total)
+ 
  References- 
- https://www.geeksforgeeks.org/coin-change-dp-7/
  https://leetcode.com/problems/coin-change/
  
  NOTE: Variation of Unbounded Knapsack Problem
