@@ -1,5 +1,8 @@
 /*
-https://leetcode.com/problems/stone-game-iii/
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/stone-game-iii/
 */
 
 import java.util.*;
@@ -12,8 +15,7 @@ class Solution {
         int i_1=0,i_2=0,i_3=0;
         int i=N-1;
 
-        while(i>=0){
-            
+        while(i>=0){            
             int ans=Integer.MIN_VALUE;
             ans=Math.max(ans,stoneValue[i]-i_1);
             if(i+1<stoneValue.length)
@@ -24,8 +26,6 @@ class Solution {
             i_2=i_1;
             i_1=ans;
             i--;
-
-
         }
         
         int alice=i_1;
