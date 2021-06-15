@@ -1,7 +1,11 @@
-/*
+/**
  @author Farheen Bano
 
+ Given a total and coins of certain denominations find number of ways total
+ can be formed from coins assuming infinity supply of coins
+ 
  Reference- 
+ https://www.geeksforgeeks.org/coin-change-dp-7/
  https://leetcode.com/problems/coin-change-2/
 
  NOTE: Variation of Unbounded Knapsack Problem
