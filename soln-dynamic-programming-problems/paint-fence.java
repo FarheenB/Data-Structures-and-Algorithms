@@ -1,5 +1,8 @@
 /*
-https://leetcode.com/problems/paint-fence
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/paint-fence
 */
 
 import java.util.*;
