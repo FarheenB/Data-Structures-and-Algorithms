@@ -1,16 +1,17 @@
 /*
-https://www.geeksforgeeks.org/minimum-number-deletions-insertions-transform-one-string-another/
-https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/minimum-number-deletions-insertions-transform-one-string-another/
+ https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1
 */
 
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class Solution
-{
-    public int minOperations(String word1, String word2) 
-    { 
+class Solution {
+    public int minOperations(String word1, String word2) { 
         int n=word1.length();
         int m=word2.length();
         int subsequence=longestCommonSubsequence(word1,word2);
