@@ -1,6 +1,9 @@
 /*
-https://www.interviewbit.com/problems/4-sum/
-https://leetcode.com/problems/4sum
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/4-sum/
+ https://leetcode.com/problems/4sum
 */
 
 import java.util.*;
