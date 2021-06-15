@@ -1,6 +1,9 @@
 /*
-https://practice.geeksforgeeks.org/problems/form-a-palindrome/
-https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+ @author Farheen Bano
+  
+ References-
+ https://practice.geeksforgeeks.org/problems/form-a-palindrome/
+ https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
 */
 
 import java.util.*;
