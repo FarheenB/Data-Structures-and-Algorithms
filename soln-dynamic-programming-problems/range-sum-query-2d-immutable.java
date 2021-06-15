@@ -1,5 +1,8 @@
 /*
-https://leetcode.com/problems/range-sum-query-2d-immutable/
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/range-sum-query-2d-immutable/
 */
 
 import java.util.*;
