@@ -1,5 +1,8 @@
 /*
-https://leetcode.com/problems/boats-to-save-people
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/boats-to-save-people
 */
 
 import java.util.*;
