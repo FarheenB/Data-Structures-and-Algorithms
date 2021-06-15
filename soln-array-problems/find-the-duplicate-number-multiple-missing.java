@@ -1,5 +1,8 @@
 /*
-https://leetcode.com/problems/find-the-duplicate-number/
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/find-the-duplicate-number/
 */
 
 import java.util.*;
