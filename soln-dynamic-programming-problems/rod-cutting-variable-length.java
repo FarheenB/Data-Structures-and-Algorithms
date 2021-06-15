@@ -1,7 +1,10 @@
 /*
-https://www.geeksforgeeks.org/cutting-a-rod-dp-13/
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/cutting-a-rod-dp-13/
 
-NOTE: Variation of Unbounded Knapsack
+ NOTE: Variation of Unbounded Knapsack
 */
 
 import java.util.*;
@@ -42,8 +45,7 @@ class Solution {
                 //create cut length array
                 length[i]=i+1;
             }
-            System.out.println(solve(N,v,length));
-    
+            System.out.println(solve(N,v,length));    
         }
     }
 }
