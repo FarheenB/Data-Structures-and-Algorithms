@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/out-of-boundary-paths/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/out-of-boundary-paths/
 */
 
 import java.util.*;
