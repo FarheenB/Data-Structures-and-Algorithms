@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/longest-increasing-path-matrix/
-https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/longest-increasing-path-matrix/
+ https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
 */
 
 import java.io.*;
