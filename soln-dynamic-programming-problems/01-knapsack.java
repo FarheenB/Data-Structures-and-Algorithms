@@ -1,4 +1,4 @@
-/*
+/**
  @author Farheen Bano
  
  0/1 Knapsack Problem - Given items of certain weights/values and maximum allowed weight
