@@ -1,6 +1,9 @@
 /*
-https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1
-https://leetcode.com/problems/first-missing-positive/
+ @author Farheen Bano
+  
+ References-
+ https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1
+ https://leetcode.com/problems/first-missing-positive/
 */
 
 import java.util.*;
