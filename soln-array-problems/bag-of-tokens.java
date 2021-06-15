@@ -1,5 +1,8 @@
 /*
-https://leetcode.com/problems/bag-of-tokens/
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/bag-of-tokens/
 */
 
 import java.util.*;
