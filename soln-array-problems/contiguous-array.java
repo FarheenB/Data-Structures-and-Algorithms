@@ -1,5 +1,8 @@
 /*
-https://leetcode.com/problems/contiguous-array/
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/contiguous-array/
 */
 
 import java.util.*;
