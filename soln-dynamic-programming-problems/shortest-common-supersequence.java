@@ -1,5 +1,8 @@
 /*
-https://www.geeksforgeeks.org/shortest-common-supersequence/
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/shortest-common-supersequence/
 */ 
 
 import java.util.*;
@@ -7,7 +10,6 @@ import java.lang.*;
 import java.io.*;
 
 class Solution {
-	
 	public static int shortestCommonSupersequence(String text1, String text2, int n, int m){
         return n+m-longestCommonSubsequence(text1,text2,n,m);
     }
