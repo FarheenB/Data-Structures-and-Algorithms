@@ -1,6 +1,9 @@
 /*
-https://www.interviewbit.com/problems/palindrome-partitioning/
-https://leetcode.com/problems/palindrome-partitioning/
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/palindrome-partitioning/
+ https://leetcode.com/problems/palindrome-partitioning/
 */
 
 import java.util.*;
