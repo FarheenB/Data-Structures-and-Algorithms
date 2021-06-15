@@ -1,7 +1,10 @@
 /*
-https://leetcode.com/problems/russian-doll-envelopes/
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/russian-doll-envelopes/
 
-NOTE: Variation of Longest Increasing Subsequence
+ NOTE: Variation of Longest Increasing Subsequence
 */
 
 import java.util.*;
@@ -12,8 +15,7 @@ class Solution {
     public int maxEnvelopes(int[][] envelopes) {
         if(envelopes==null || envelopes.length==0)
             return 0;
-        Arrays.sort(envelopes, new Comparator<int[]>() {
-            
+        Arrays.sort(envelopes, new Comparator<int[]>() {            
             public int compare(int[] arr1, int[] arr2) {
                 if (arr1[0] == arr2[0]) {
                     return arr2[1] - arr1[1];
