@@ -1,5 +1,8 @@
 /*
-https://www.geeksforgeeks.org/binary-search/
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/binary-search/
 */
 
 import java.util.*;
@@ -19,8 +22,7 @@ class Solution {
 		    System.out.println(BinarySearch(arr,0,arr.length-1,K));
 		}
 	}
-	public static int BinarySearch(int arr[], int start, int end, int x) 
-    { 
+	public static int BinarySearch(int arr[], int start, int end, int x) { 
         if (start<=end) { 
             int mid = start + (end - start) / 2; 
             if (arr[mid] == x) 
