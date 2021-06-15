@@ -1,7 +1,10 @@
 /*
-https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
 
-NOTE: Variation of Matrix Chain Multiplicaton Problem
+ NOTE: Variation of Matrix Chain Multiplicaton Problem
 */
 
 class Solution {
