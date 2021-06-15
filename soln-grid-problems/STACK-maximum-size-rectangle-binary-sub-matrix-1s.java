@@ -1,7 +1,10 @@
 /*
-https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix/
-https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/
-https://leetcode.com/problems/maximal-rectangle/
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix/
+ https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/
+ https://leetcode.com/problems/maximal-rectangle/
 */
 
 import java.util.*;
