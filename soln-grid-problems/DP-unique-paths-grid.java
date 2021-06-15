@@ -1,6 +1,9 @@
-/*
-https://www.interviewbit.com/problems/grid-unique-paths/
-https://leetcode.com/problems/unique-paths/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/grid-unique-paths/
+ https://leetcode.com/problems/unique-paths/
 */
 
 import java.io.*;
