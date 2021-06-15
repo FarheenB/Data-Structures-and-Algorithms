@@ -1,7 +1,10 @@
 /*
-https://www.geeksforgeeks.org/nplace-rotate-square-matrix-by-90-degrees/
-https://www.interviewbit.com/problems/rotate-matrix/
-https://leetcode.com/problems/rotate-image/
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/nplace-rotate-square-matrix-by-90-degrees/
+ https://www.interviewbit.com/problems/rotate-matrix/
+ https://leetcode.com/problems/rotate-image/
 */
 
 import java.util.*;
