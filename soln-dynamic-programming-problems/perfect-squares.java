@@ -1,5 +1,8 @@
 /*
-https://leetcode.com/problems/perfect-squares/
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/perfect-squares/
 */
 
 import java.util.*;
