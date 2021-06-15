@@ -1,9 +1,10 @@
-/*
-https://leetcode.com/problems/the-maze/
-
-NOTE: The ball can go through the empty spaces by rolling up, down, left or right, but it won't stop rolling until hitting a wall. When the ball stops, it could choose the next direction.
-
-
+/**
+ @author Farheen Bano
+  
+ The ball can go through the empty spaces by rolling up, down, left or right, but it won't stop rolling until hitting a wall. When the ball stops, it could choose the next direction.
+ 
+ Reference-
+ https://leetcode.com/problems/the-maze/
 */
 
 public class Solution {
