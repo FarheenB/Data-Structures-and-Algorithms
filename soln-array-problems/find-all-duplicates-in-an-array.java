@@ -1,6 +1,9 @@
 /*
-https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1
-https://leetcode.com/problems/find-all-duplicates-in-an-array/
+ @author Farheen Bano
+  
+ References-
+ https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1
+ https://leetcode.com/problems/find-all-duplicates-in-an-array/
 */
 
 import java.util.*;
