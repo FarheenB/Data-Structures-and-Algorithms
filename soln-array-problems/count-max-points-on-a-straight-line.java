@@ -1,9 +1,12 @@
 /*
-https://www.geeksforgeeks.org/count-maximum-points-on-same-line/
-https://www.interviewbit.com/problems/points-on-the-straight-line/
-https://leetcode.com/problems/max-points-on-a-line/
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/count-maximum-points-on-same-line/
+ https://www.interviewbit.com/problems/points-on-the-straight-line/
+ https://leetcode.com/problems/max-points-on-a-line/
 
-NOTE: slope between two points is given by (y2 – y1) / (x2 – x1).
+ NOTE: Slope between two points is given by (y2 – y1) / (x2 – x1).
 */
 
 class Solution {
