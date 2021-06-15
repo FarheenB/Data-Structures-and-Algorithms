@@ -1,5 +1,8 @@
 /*
-https://leetcode.com/problems/count-of-smaller-numbers-after-self/
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 */
 
 import java.util.*;
@@ -40,7 +43,6 @@ class Solution {
         mergesort(items,low,mid,count);
         mergesort(items,mid+1,high,count);
         merge(items, low, mid, mid+1, high, count);
-
     }
     
     private void merge(Item[] items, int low, int lowEnd, int high, int highEnd, int count[]){
@@ -53,8 +55,7 @@ class Solution {
         int index=0;
         int rightCount=0;
         
-        while(lowPtr<=lowEnd && highPtr<=highEnd){
-            
+        while(lowPtr<=lowEnd && highPtr<=highEnd){            
             if(items[highPtr].val<items[lowPtr].val){
                 rightCount++;
                 sortedArr[index++]=items[highPtr++];
