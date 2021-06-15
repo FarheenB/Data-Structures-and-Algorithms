@@ -1,5 +1,8 @@
 /*
-https://leetcode.com/problems/binary-subarrays-with-sum/
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/binary-subarrays-with-sum/
 */ 
 
 import java.util.*;
