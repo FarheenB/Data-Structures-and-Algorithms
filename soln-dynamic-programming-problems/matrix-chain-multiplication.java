@@ -1,5 +1,8 @@
 /*
-https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/
 */
 
 import java.util.*;
