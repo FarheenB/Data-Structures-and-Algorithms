@@ -1,6 +1,9 @@
 /*
-https://www.interviewbit.com/problems/3-sum-zero/
-https://leetcode.com/problems/3sum/
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/3-sum-zero/
+ https://leetcode.com/problems/3sum/
 */
 
 import java.util.*;
