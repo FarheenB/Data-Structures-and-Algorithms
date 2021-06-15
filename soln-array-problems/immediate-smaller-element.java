@@ -1,5 +1,8 @@
 /*
-https://practice.geeksforgeeks.org/problems/immediate-smaller-element1142/1
+ @author Farheen Bano
+  
+ Reference-
+ https://practice.geeksforgeeks.org/problems/immediate-smaller-element1142/1
 */
 
 class Solution {
