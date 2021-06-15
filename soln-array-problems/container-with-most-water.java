@@ -1,6 +1,9 @@
 /*
-https://www.interviewbit.com/problems/container-with-most-water/
-https://leetcode.com/problems/container-with-most-water/
+ @author Farheen Bano
+  
+ References- 
+ https://www.interviewbit.com/problems/container-with-most-water/
+ https://leetcode.com/problems/container-with-most-water/
 */
 
 import java.util.*;
