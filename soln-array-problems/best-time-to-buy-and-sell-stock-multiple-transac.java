@@ -1,5 +1,8 @@
 /*
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 */
 
 class Solution {
