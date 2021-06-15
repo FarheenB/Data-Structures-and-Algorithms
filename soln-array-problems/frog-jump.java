@@ -1,5 +1,8 @@
 /*
-https://leetcode.com/problems/frog-jump
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/frog-jump
 */
 
 import java.util.*;
