@@ -1,5 +1,8 @@
 /*
-https://leetcode.com/problems/contains-duplicate-ii/
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/contains-duplicate-ii/
 */
 
 import java.util.*;
