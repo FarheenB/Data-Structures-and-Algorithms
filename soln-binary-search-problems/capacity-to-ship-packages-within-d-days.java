@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
 */
 
 import java.util.*;
