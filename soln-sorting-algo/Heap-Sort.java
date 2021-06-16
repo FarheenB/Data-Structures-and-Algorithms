@@ -1,5 +1,8 @@
-/*
-https://www.geeksforgeeks.org/heap-sort/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/heap-sort/
 */
 
 import java.io.*;
