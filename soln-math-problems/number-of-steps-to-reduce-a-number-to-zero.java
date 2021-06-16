@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero
 */
 
 import java.util.*;
