@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/gas-station/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/gas-station/
 */
 
 import java.util.*;
