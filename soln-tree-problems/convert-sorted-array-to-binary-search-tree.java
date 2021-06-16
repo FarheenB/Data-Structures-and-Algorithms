@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 */
 
 import java.util.*;
