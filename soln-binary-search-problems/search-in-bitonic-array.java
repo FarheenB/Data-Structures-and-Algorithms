@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/find-in-mountain-array/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/find-in-mountain-array/
 */
 
 import java.util.*;
