@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/broken-calculator
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/broken-calculator
 */
 
 import java.util.*;
