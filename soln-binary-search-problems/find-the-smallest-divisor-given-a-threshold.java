@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
 */
 
 import java.util.*;
