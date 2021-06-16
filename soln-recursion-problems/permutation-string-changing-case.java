@@ -1,5 +1,8 @@
-/*
-https://www.geeksforgeeks.org/permute-string-changing-case/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/permute-string-changing-case/
 */
 
 import java.util.*;
