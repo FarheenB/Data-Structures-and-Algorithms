@@ -1,5 +1,8 @@
-/*
-https://www.interviewbit.com/problems/find-a-peak-element/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.interviewbit.com/problems/find-a-peak-element/
 */
 
 import java.util.*;
