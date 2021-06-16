@@ -1,5 +1,8 @@
-/*
-https://www.geeksforgeeks.org/bubble-sort/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/bubble-sort/
 */
 
 import java.io.*;
