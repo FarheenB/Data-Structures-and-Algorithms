@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
 */
 
 import java.util.*;
