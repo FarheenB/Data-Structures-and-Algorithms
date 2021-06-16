@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 */
 
 import java.util.*;
