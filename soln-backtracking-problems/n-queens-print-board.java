@@ -1,6 +1,9 @@
-/*
-https://www.interviewbit.com/problems/nqueens/
-https://leetcode.com/problems/n-queens/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/nqueens/
+ https://leetcode.com/problems/n-queens/
 */
 
 import java.util.*;
