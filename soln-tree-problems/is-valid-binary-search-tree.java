@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/
-https://leetcode.com/problems/validate-binary-search-tree/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/
+ https://leetcode.com/problems/validate-binary-search-tree/
 */
 
 import java.util.*;
