@@ -1,5 +1,8 @@
-/*
-https://www.geeksforgeeks.org/program-display-number-characters-longest-word-sentence/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/program-display-number-characters-longest-word-sentence/
 */
 
 import java.util.*;
