@@ -1,5 +1,8 @@
-/*
-https://practice.geeksforgeeks.org/problems/power-set4302/1
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://practice.geeksforgeeks.org/problems/power-set4302/1
 */
 
 import java.util.*;
