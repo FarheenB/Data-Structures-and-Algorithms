@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips
 */
 
 import java.util.*;
