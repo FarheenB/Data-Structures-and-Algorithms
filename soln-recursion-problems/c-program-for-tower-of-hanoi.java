@@ -1,5 +1,8 @@
-/*
-https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/
 */
 
 import java.util.*;
