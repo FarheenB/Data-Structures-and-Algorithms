@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/letter-combinations-of-a-phone-number
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/letter-combinations-of-a-phone-number
 */
 
 import java.util.*;
