@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/longest-palindromic-substring
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/longest-palindromic-substring
 */
 
 import java.util.*;
