@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/merge-k-sorted-lists/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/merge-k-sorted-lists/
 */
 
 /**
@@ -35,7 +38,6 @@ class Solution {
             dummyNode.next=newNode;
             dummyNode=newNode;
         }
-        return head.next;
-    
+        return head.next;    
     }
 }
