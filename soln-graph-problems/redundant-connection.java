@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/redundant-connection
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/redundant-connection
 */
 
 import java.util.*;
