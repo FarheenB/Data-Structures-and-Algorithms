@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/most-common-word/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/most-common-word/
 */
 
 import java.util.*;
