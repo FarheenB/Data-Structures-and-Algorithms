@@ -1,5 +1,8 @@
-/*
-https://www.geeksforgeeks.org/next-smaller-element/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/next-smaller-element/
 */
 
 import java.util.*;
