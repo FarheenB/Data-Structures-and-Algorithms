@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/to-lower-case/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/to-lower-case/
 */
 
 import java.util.*;
