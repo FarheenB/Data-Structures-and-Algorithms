@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/minimum-size-subarray-sum/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/minimum-size-subarray-sum/
 */
 
 class Solution {
