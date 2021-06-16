@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii
 */
 
 import java.util.*;
