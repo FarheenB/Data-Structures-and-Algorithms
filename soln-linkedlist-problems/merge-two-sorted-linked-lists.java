@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/merge-two-sorted-lists/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/merge-two-sorted-lists/
 */
 
 import java.util.*;
