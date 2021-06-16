@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/binary-search-tree-set-2-delete/
-https://leetcode.com/problems/delete-node-in-a-bst/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/binary-search-tree-set-2-delete/
+ https://leetcode.com/problems/delete-node-in-a-bst/
 */
 
 import java.util.*;
