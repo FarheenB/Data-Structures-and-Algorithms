@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/binary-tree-maximum-path-sum/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/binary-tree-maximum-path-sum/
 */
 
 import java.util.*;
