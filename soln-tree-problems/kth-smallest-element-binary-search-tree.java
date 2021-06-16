@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/find-k-th-smallest-element-in-bst-order-statistics-in-bst/
-https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/find-k-th-smallest-element-in-bst-order-statistics-in-bst/
+ https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 */
 
 import java.util.*;
