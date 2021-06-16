@@ -1,7 +1,10 @@
-/*
-https://practice.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1
-https://www.interviewbit.com/problems/sum-root-to-leaf-numbers/
-https://leetcode.com/problems/sum-root-to-leaf-numbers/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://practice.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1
+ https://www.interviewbit.com/problems/sum-root-to-leaf-numbers/
+ https://leetcode.com/problems/sum-root-to-leaf-numbers/
 */
 
 import java.util.*;
