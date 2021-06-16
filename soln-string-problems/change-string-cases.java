@@ -1,5 +1,8 @@
-/*
-https://www.geeksforgeeks.org/convert-alternate-characters-string-upper-case/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/convert-alternate-characters-string-upper-case/
 */
 
 import java.util.*;
