@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/split-array-largest-sum/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/split-array-largest-sum/
 */
 
 class Solution {
