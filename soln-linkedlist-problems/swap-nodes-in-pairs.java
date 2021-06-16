@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/swap-nodes-in-pairs/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/swap-nodes-in-pairs/
 */
 
 import java.util.*;
