@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/partition-labels/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/partition-labels/
 */
 
 import java.util.*;
