@@ -1,5 +1,8 @@
-/*
-https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1
 */
 
 class solve {
