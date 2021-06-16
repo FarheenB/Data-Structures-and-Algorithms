@@ -1,6 +1,9 @@
-/*
-https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
-https://www.interviewbit.com/problems/least-common-ancestor/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+ https://www.interviewbit.com/problems/least-common-ancestor/
 */
 
 import java.util.*;
