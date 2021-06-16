@@ -1,6 +1,9 @@
-/*
-https://practice.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1
-https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://practice.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1
+ https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/
 */
 
 /*
