@@ -1,6 +1,8 @@
-
-/*
-https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
 */
 
 import java.util.*;
