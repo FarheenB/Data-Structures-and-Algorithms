@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/longest-palindrome/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/longest-palindrome/
 */
 
 import java.util.*;
