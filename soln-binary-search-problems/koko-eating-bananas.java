@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/koko-eating-bananas/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/koko-eating-bananas/
 */
 
 import java.util.*;
