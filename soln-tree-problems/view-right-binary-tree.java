@@ -1,6 +1,9 @@
-/*
-https://leetcode.com/problems/binary-tree-right-side-view/
-https://www.geeksforgeeks.org/print-right-view-binary-tree-2/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://leetcode.com/problems/binary-tree-right-side-view/
+ https://www.geeksforgeeks.org/print-right-view-binary-tree-2/
 */
 
 import java.util.*;
