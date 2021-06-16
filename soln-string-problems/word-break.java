@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/word-break-problem-dp-32/
-https://leetcode.com/problems/word-break/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/word-break-problem-dp-32/
+ https://leetcode.com/problems/word-break/
 */
 
 import java.util.*;
