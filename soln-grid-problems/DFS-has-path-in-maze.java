@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/the-maze/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/the-maze/
 */
 
 public class Solution {
