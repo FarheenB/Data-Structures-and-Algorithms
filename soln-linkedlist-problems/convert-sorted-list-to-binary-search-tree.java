@@ -1,7 +1,10 @@
-/*
-https://www.interviewbit.com/problems/convert-sorted-list-to-binary-search-tree/
-https://www.geeksforgeeks.org/sorted-array-to-balanced-bst/
-https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/convert-sorted-list-to-binary-search-tree/
+ https://www.geeksforgeeks.org/sorted-array-to-balanced-bst/
+ https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
 */
 
 /**
