@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/repeated-dna-sequences
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/repeated-dna-sequences
 */
 
 import java.util.*;
