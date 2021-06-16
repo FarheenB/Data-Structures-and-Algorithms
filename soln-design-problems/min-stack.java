@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/min-stack/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/min-stack/
 */
 
 import java.util.*;
