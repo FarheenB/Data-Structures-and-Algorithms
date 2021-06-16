@@ -1,5 +1,8 @@
-/* 
-https://practice.geeksforgeeks.org/problems/permutation-with-spaces3627/1
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://practice.geeksforgeeks.org/problems/permutation-with-spaces3627/1
 */
 
 import java.util.*;
