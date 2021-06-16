@@ -1,6 +1,9 @@
-/*
-https://leetcode.com/problems/subtree-of-another-tree/
-https://www.geeksforgeeks.org/check-if-a-binary-tree-is-subtree-of-another-binary-tree/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://leetcode.com/problems/subtree-of-another-tree/
+ https://www.geeksforgeeks.org/check-if-a-binary-tree-is-subtree-of-another-binary-tree/
 */
 
 import java.io.*;
