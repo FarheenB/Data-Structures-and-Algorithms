@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/last-stone-weight
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/last-stone-weight
 */
 
 import java.util.*;
