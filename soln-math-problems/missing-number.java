@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/missing-number/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/missing-number/
 */
 
 import java.util.*;
