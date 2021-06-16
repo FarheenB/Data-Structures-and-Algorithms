@@ -1,6 +1,9 @@
-/*
-https://leetcode.com/problems/remove-duplicate-letters
-https://leetcode.com/problems/smallest-subsequence-of-distinct-characters
+/**
+ @author Farheen Bano
+  
+ References-
+ https://leetcode.com/problems/remove-duplicate-letters
+ https://leetcode.com/problems/smallest-subsequence-of-distinct-characters
 */
 
 import java.util.*;
