@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/number-of-1-bits/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/number-of-1-bits/
 */
 
 import java.util.*;
