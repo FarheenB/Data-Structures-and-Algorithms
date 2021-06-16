@@ -6,7 +6,7 @@
  Reference-
  https://leetcode.com/problems/the-maze-ii
 
- NOTE: BFS approach has an improved execution time over DFS approach for finding shortest path.
+ NOTE: BFS approach has an improved execution time over DFS approach for finding shortest path
 */
 
 public class Solution {
