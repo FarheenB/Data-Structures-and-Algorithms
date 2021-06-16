@@ -1,7 +1,10 @@
-/*
-https://leetcode.com/problems/word-search-ii/
-
-NOTE: "adjacent" cells are horizontally or vertically neighboring. The same letter cell may not be used more than once.
+/**
+ @author Farheen Bano
+ 
+ The "adjacent" cells are horizontally or vertically neighboring. The same letter cell may not be used more than once.
+ 
+ Reference-
+ https://leetcode.com/problems/word-search-ii/ 
 */
 
 class Solution {
