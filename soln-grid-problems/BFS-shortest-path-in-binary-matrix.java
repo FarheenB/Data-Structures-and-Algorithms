@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/shortest-distance-two-cells-matrix-grid/
-https://leetcode.com/problems/shortest-path-in-binary-matrix/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/shortest-distance-two-cells-matrix-grid/
+ https://leetcode.com/problems/shortest-path-in-binary-matrix/
 */
 
 import java.util.*;
