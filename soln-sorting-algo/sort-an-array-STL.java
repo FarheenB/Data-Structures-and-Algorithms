@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/sort-an-array/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/sort-an-array/
 */
 
 import java.util.*;
