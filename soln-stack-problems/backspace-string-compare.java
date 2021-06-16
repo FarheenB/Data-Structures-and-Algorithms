@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/backspace-string-compare/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/backspace-string-compare/
 */
 
 import java.util.*;
