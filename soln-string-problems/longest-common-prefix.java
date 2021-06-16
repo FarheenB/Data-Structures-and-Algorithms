@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/longest-common-prefix/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/longest-common-prefix/
 */
 
 import java.util.*;
