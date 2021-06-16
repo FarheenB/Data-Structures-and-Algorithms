@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/allocate-minimum-number-pages/
-https://www.interviewbit.com/problems/allocate-books/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/allocate-minimum-number-pages/
+ https://www.interviewbit.com/problems/allocate-books/
 */
 
 import java.util.*;
