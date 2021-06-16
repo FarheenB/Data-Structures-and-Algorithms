@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/find-level-maximum-sum-binary-tree/
-https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/find-level-maximum-sum-binary-tree/
+ https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
 */
 
 import java.io.*;
