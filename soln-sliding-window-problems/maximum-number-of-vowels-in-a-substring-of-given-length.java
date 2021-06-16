@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 */
 
 class Solution {
