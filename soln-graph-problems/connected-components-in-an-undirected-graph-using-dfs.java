@@ -1,5 +1,8 @@
-/*
-https://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/
 */
 
 import java.util.*;
