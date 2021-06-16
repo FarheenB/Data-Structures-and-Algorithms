@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/unique-email-addresses
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/unique-email-addresses
 */
 
 import java.util.*;
