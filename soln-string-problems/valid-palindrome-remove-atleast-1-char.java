@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/valid-palindrome-ii
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/valid-palindrome-ii
 */
 
 import java.util.*;
