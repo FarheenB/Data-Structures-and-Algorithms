@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/max-area-of-island/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/max-area-of-island/
 */
 
 import java.util.*;
