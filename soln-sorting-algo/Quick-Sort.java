@@ -1,5 +1,8 @@
-/*
-https://www.geeksforgeeks.org/quick-sort/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/quick-sort/
 */
 
 import java.io.*;
