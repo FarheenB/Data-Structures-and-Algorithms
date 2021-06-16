@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/
-https://leetcode.com/problems/linked-list-cycle/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/
+ https://leetcode.com/problems/linked-list-cycle/
 */
 
 import java.util.*;
