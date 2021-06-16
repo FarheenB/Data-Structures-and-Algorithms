@@ -1,6 +1,9 @@
-/*
-https://leetcode.com/problems/surrounded-regions/
-https://www.interviewbit.com/problems/capture-regions-on-board/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://leetcode.com/problems/surrounded-regions/
+ https://www.interviewbit.com/problems/capture-regions-on-board/
 */
 
 import java.util.*;
