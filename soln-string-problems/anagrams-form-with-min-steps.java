@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/minimum-number-of-manipulations-required-to-make-two-strings-anagram-without-deletion-of-character/
-https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/minimum-number-of-manipulations-required-to-make-two-strings-anagram-without-deletion-of-character/
+ https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
 */
 
 import java.util.*;
