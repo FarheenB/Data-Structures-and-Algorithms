@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/score-of-parentheses
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/score-of-parentheses
 */
 
 import java.util.*;
