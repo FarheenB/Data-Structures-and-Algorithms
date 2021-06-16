@@ -1,5 +1,8 @@
-/*
-https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring/0
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring/0
 */
 
 import java.util.*;
