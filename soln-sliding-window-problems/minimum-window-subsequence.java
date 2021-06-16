@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/minimum-window-subsequence/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/minimum-window-subsequence/
 */
 
 import java.util.*;
