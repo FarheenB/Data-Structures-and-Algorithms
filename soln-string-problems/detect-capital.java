@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/detect-capital
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/detect-capital
 */
 
 import java.util.*;
