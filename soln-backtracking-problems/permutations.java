@@ -1,6 +1,9 @@
-/*
-https://www.interviewbit.com/problems/permutations/
-https://leetcode.com/problems/permutations/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/permutations/
+ https://leetcode.com/problems/permutations/
 */
 
 import java.util.*;
