@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/task-scheduler/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/task-scheduler/
 */
 
 import java.util.*;
