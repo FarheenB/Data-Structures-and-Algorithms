@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/online-stock-span/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/online-stock-span/
 */
 
 import java.util.*;
