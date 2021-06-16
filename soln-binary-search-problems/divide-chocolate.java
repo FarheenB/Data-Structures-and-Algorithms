@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/divide-chocolate/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/divide-chocolate/
 */
 
 import java.util.*;
