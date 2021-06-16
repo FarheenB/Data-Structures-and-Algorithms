@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/happy-number
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/happy-number
 */
 
 import java.util.*;
