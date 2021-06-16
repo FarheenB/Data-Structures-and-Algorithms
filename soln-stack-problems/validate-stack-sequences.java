@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/validate-stack-sequences/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/validate-stack-sequences/
 */
 
 import java.util.*;
