@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/delete-nodes-and-return-forest
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/delete-nodes-and-return-forest
 */
 
 import java.util.*;
