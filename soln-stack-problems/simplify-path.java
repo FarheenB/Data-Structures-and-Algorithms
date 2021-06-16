@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/simplify-path/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/simplify-path/
 */
 
 import java.util.*;
