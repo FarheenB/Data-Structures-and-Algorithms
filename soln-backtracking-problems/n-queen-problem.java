@@ -1,5 +1,8 @@
-/*
-https://practice.geeksforgeeks.org/problems/n-queen-problem0315/1
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://practice.geeksforgeeks.org/problems/n-queen-problem0315/1
 */
 
 import java.util.*;
