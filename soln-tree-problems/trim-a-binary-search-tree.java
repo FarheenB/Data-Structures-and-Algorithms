@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/trim-a-binary-search-tree/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/trim-a-binary-search-tree/
 */
 
 import java.util.*;
