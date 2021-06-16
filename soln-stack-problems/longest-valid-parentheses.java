@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/longest-valid-parentheses/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/longest-valid-parentheses/
 */
 
 import java.util.*;
