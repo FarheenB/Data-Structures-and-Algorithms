@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/find-k-th-smallest-pair-distance/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/find-k-th-smallest-pair-distance/
 */
 
 import java.util.*;
