@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/copy-list-with-random-pointer/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/copy-list-with-random-pointer/
 */
 
 import java.util.*;
