@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance
 */
 
 import java.util.*;
