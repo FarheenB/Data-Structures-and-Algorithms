@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/odd-even-linked-list/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/odd-even-linked-list/
 */
 
 import java.util.*;
