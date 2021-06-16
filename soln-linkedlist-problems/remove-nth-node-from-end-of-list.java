@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 */
 
 import java.util.*;
