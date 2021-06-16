@@ -1,7 +1,10 @@
-/*
-https://leetcode.com/problems/path-sum-iii/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/path-sum-iii/
 
-Note: The path does not need to start or end at the root or a leaf
+ Note: The path does not need to start or end at the root or a leaf
 */
 
 import java.util.*;
