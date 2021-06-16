@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/minimize-max-distance-to-gas-station/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/minimize-max-distance-to-gas-station/
 */
 
 import java.util.*;
