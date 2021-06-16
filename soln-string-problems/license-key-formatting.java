@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/license-key-formatting
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/license-key-formatting
 */
 
 import java.util.*;
