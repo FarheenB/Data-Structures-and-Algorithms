@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/string-compression
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/string-compression
 */
 
 import java.util.*;
