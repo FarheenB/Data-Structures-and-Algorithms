@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/
-https://leetcode.com/problems/binary-tree-postorder-traversal/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/
+ https://leetcode.com/problems/binary-tree-postorder-traversal/
 */
 
 import java.util.*;
