@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/discuss/interview-question/625140/Goldman-Sachs-or-OA-2020-or-Array-Burst-Problem-and-Birthday-Party
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/discuss/interview-question/625140/Goldman-Sachs-or-OA-2020-or-Array-Burst-Problem-and-Birthday-Party
 */
 
 import java.util.*;
