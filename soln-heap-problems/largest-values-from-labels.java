@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/largest-values-from-labels
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/largest-values-from-labels
 */
 
 import java.util.*;
