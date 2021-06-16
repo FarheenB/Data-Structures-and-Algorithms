@@ -1,8 +1,11 @@
-/*
-https://www.interviewbit.com/problems/sort-list/
-https://leetcode.com/problems/sort-list/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/sort-list/
+ https://leetcode.com/problems/sort-list/
 
-NOTE:   Using Merge Sort
+ NOTE:  Using Merge Sort
         Time : O(nlogn)
         Space: O(1)- constant space
 */
@@ -40,10 +43,8 @@ public class Solution {
         ListNode left_side=sortList(head);
         ListNode right_side=sortList(slow);
 
-        return merge(left_side, right_side);
-        
+        return merge(left_side, right_side);        
     }
-    
     
     public ListNode merge(ListNode left, ListNode right){
         ListNode sortedDummy=new ListNode(0);
