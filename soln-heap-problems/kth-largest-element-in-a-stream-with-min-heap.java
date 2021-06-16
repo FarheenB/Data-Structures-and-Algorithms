@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/kth-largest-element-in-a-stream
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/kth-largest-element-in-a-stream
 */
 
 import java.util.*;
