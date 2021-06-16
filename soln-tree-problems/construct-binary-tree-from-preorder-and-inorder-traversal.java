@@ -1,5 +1,8 @@
-/*
-https://www.geeksforgeeks.org/construct-tree-from-given-inorder-and-preorder-traversal/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/construct-tree-from-given-inorder-and-preorder-traversal/
 */
 
 import java.io.*;
