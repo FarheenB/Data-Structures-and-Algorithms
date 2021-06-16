@@ -1,5 +1,8 @@
-/*
-https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1#
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1#
 */
 
 import java.util.*;
