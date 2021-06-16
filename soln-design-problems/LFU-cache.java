@@ -1,9 +1,8 @@
-/*
-https://leetcode.com/problems/lfu-cache/
-*/
-
-/*
-https://leetcode.com/problems/lfu-cache/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/lfu-cache/
 */
 
 class Node {
