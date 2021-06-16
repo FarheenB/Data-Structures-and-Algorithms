@@ -1,5 +1,8 @@
-/*
-https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k/0
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k/0
 */
 
 import java.util.*;
