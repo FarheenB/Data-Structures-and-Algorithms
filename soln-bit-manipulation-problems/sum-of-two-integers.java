@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/sum-of-two-integers/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/sum-of-two-integers/
 */
 
 import java.util.*;
