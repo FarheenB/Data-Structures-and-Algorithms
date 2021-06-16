@@ -29,6 +29,7 @@ This respository is a collection of readable and clean implementation of data st
 * [Sliding Window](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-sliding-window-problems)
 * [Math]
 
+Some popular problems-
 #### Graph
 * Graph Traversal
   - Breadth-First Search
@@ -47,22 +48,34 @@ This respository is a collection of readable and clean implementation of data st
 
 
 #### Dynamic Programming
-* 0-1 Knapsack
-* Edit (Levenshtein) Distance
-* Longest Increasing Subsequence
-* Longest Common Subsequence
-* Maximum Subset Sum
+* [Fibonacci Series](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/fibonacci-series.java)
+* [Climbing Stairs](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/climbing-stairs.java)
+* [0-1 Knapsack](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/01-knapsack.java) 
+* [Edit (Levenshtein) Distance](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/edit-distance.java)
+* [Longest Increasing Subsequence](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/longest-increasing-subsequence.java)
+* [Longest Common Subsequence](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/longest-common-subsequence.java)
+* [Longest Common Substring](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/longest-common-substring.java)
+* [Longest Common Palindromic Subsequence](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/longest-palindromic-subsequence.java)
+* [Longest Common Palindromic Substring](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/longest-palindromic-substring.java)
+* [Longest Repeating Subsequence](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/longest-repeating-subsequence.java)
+* [Longest Repeating Substring](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/longest-repeating-substring.java)
+* [Subset Sum](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/subset-sum.java)
+* [Matrix Change Multiplication](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/matrix-chain-multiplication.java)
+* [Unbounded Knapsack](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/unbounded-knapsack.java)
+* [Coin Change-No. of Ways](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/coin-change-count-ways.java)
+* [Coin Change-No. of Coins](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/coin-change-no-of-coins.java)
+* [Egg Dropping Problem](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/egg-dropping-puzzle.java)
+* [Burst Balloons](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/burst-balloons.java)
+* [Boolean Parenthesization](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/boolean-parenthesization.java)
+* [Scramble String](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/scramble_string.java)
 
 #### Sorting
-* Timsort
-* Radix Sort
-* Counting Sort
-* Quicksort
-* Heapsort
-* Mergesort
-* Insertion Sort
-* Bubble Sort
-* Selection Sort
+* [Selection Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Selection-Sort.java)
+* [Bubble Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Bubble-Sort.java)
+* [Insertion Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Insertion-Sort.java)
+* [Mergesort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Merge-Sort.java)
+* [Quicksort]9https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Quick-Sort.java)
+* [Heapsort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Heap-Sort.java)
 
 #### Searching
 * Linear Search
@@ -72,15 +85,6 @@ This respository is a collection of readable and clean implementation of data st
   - Randomized Select
   - Heapselect
   - Quickselect
-
-#### Strings
-* String Searching
-  - Aho-Corasick
-  - Z Algorithm
-  - Knuth-Morris-Pratt
-  - Boyer-Moore
-  - Rabin-Karp
-  - Brute Force
 
 #### Math/Number Theory
 
