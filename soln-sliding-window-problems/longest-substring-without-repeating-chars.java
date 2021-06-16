@@ -1,6 +1,9 @@
-/*
-https://practice.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1
-https://leetcode.com/problems/longest-substring-without-repeating-characters/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://practice.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1
+ https://leetcode.com/problems/longest-substring-without-repeating-characters/
 */
 
 import java.util.*;
