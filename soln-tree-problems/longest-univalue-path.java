@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/longest-univalue-path/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/longest-univalue-path/
 */
 
 import java.util.*;
