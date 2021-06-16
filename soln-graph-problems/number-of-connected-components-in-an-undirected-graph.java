@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph
 */
 
 class Solution {
