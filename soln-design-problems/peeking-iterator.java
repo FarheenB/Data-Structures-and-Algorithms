@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/peeking-iterator
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/peeking-iterator
 */
 
 import java.util.*;
