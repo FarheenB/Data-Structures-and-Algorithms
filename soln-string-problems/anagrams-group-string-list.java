@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/given-a-sequence-of-words-print-all-anagrams-together/
-https://leetcode.com/problems/group-anagrams/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/given-a-sequence-of-words-print-all-anagrams-together/
+ https://leetcode.com/problems/group-anagrams/
 */
 
 import java.util.*;
