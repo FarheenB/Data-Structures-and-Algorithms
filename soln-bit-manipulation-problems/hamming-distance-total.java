@@ -1,6 +1,9 @@
-/*
-https://www.interviewbit.com/problems/different-bits-sum-pairwise/
-https://leetcode.com/problems/total-hamming-distance/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/different-bits-sum-pairwise/
+ https://leetcode.com/problems/total-hamming-distance/
 */
 
 import java.util.*;
