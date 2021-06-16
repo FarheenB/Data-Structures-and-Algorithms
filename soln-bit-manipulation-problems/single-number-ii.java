@@ -1,6 +1,9 @@
-/*
-https://www.interviewbit.com/problems/single-number-ii/
-https://leetcode.com/problems/single-number-ii
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/single-number-ii/
+ https://leetcode.com/problems/single-number-ii
 */
 
 import java.util.*;
