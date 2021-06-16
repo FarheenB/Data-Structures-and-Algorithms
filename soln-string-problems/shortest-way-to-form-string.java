@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/shortest-way-to-form-string
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/shortest-way-to-form-string
 */
 
 import java.util.*;
