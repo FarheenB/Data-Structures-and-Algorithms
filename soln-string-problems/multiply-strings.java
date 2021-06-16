@@ -1,6 +1,9 @@
-/*
-https://www.interviewbit.com/problems/multiply-strings/
-https://leetcode.com/problems/multiply-strings/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/multiply-strings/
+ https://leetcode.com/problems/multiply-strings/
 */
 
 import java.util.*;
