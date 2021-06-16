@@ -1,6 +1,9 @@
-/*
-https://leetcode.com/problems/balanced-binary-tree/
-https://www.geeksforgeeks.org/how-to-determine-if-a-binary-tree-is-balanced/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://leetcode.com/problems/balanced-binary-tree/
+ https://www.geeksforgeeks.org/how-to-determine-if-a-binary-tree-is-balanced/
 */
 
 import java.io.*;
