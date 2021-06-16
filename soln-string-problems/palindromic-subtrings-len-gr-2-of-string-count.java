@@ -1,5 +1,8 @@
-/*
-https://www.geeksforgeeks.org/count-palindrome-sub-strings-string/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/count-palindrome-sub-strings-string/
 */
 
 import java.util.*;
