@@ -1,7 +1,10 @@
-/*
-https://www.interviewbit.com/problems/sliding-window-maximum/
-https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1
-https://leetcode.com/problems/sliding-window-maximum/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/sliding-window-maximum/
+ https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1
+ https://leetcode.com/problems/sliding-window-maximum/
 */
 
 import java.util.*;
