@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/
-https://leetcode.com/problems/insert-into-a-binary-search-tree/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/
+ https://leetcode.com/problems/insert-into-a-binary-search-tree/
 */
 
 import java.util.*;
