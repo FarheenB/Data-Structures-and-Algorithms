@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/construct-string-from-binary-tree/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/construct-string-from-binary-tree/
 */
 
 import java.util.*;
