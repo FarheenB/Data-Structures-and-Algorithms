@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/flip-game
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/flip-game
 */
 
 import java.util.*;
