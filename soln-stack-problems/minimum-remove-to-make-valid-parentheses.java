@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses
 */
 
 import java.util.*;
