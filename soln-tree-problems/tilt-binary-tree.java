@@ -1,6 +1,9 @@
-/*
-https://leetcode.com/problems/binary-tree-tilt/
-https://www.geeksforgeeks.org/tilt-binary-tree/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://leetcode.com/problems/binary-tree-tilt/
+ https://www.geeksforgeeks.org/tilt-binary-tree/
 */
 
 import java.io.*;
