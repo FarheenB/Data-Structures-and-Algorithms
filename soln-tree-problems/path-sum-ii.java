@@ -1,7 +1,10 @@
-/*
-https://leetcode.com/problems/path-sum-ii/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/path-sum-ii/
 
-Note: Find all root to leaf path equals to sum
+ Note: Find all root to leaf path equals to sum
 */
 
 import java.util.*;
