@@ -1,5 +1,8 @@
-/*
-https://www.interviewbit.com/problems/longest-common-prefix/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.interviewbit.com/problems/longest-common-prefix/
 */
 
 import java.util.*;
