@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/sort-array-by-increasing-frequency
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/sort-array-by-increasing-frequency
 */
 
 import java.util.*;
