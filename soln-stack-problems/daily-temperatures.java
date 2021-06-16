@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/daily-temperatures
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/daily-temperatures
 */
 
 import java.util.*;
