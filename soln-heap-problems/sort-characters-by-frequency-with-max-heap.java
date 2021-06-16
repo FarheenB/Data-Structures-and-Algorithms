@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/sort-characters-by-frequency/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/sort-characters-by-frequency/
 */
 
 import java.util.*;
