@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/
-https://leetcode.com/problems/maximum-depth-of-binary-tree/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/
+ https://leetcode.com/problems/maximum-depth-of-binary-tree/
 */
 
 import java.util.*;
