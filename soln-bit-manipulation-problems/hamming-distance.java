@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/hamming-distance/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/hamming-distance/
 */
 
 import java.util.*;
