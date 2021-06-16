@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/level-order-tree-traversal/
-https://leetcode.com/problems/binary-tree-level-order-traversal/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/level-order-tree-traversal/
+ https://leetcode.com/problems/binary-tree-level-order-traversal/
 */
 
 import java.util.*;
