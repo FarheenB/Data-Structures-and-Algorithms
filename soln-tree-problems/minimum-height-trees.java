@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/minimum-height-trees
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/minimum-height-trees
 */
 
 import java.util.*;
