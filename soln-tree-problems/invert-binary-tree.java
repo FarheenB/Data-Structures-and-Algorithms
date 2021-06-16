@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/write-an-efficient-c-function-to-convert-a-tree-into-its-mirror-tree/
-https://leetcode.com/problems/invert-binary-tree/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/write-an-efficient-c-function-to-convert-a-tree-into-its-mirror-tree/
+ https://leetcode.com/problems/invert-binary-tree/
 */
 
 import java.util.*;
