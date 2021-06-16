@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/smallest-alphabet-greater-than-a-given-character/
-https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/smallest-alphabet-greater-than-a-given-character/
+ https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 */
 
 import java.util.*;
