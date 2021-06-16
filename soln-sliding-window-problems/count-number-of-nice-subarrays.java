@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/count-number-of-nice-subarrays/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/count-number-of-nice-subarrays/
 */
 
 import java.util.*;
