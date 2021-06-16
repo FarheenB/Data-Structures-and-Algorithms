@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/permutation-in-string/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/permutation-in-string/
 */
 
 import java.util.*;
