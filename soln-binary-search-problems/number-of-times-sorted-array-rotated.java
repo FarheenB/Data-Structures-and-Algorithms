@@ -1,5 +1,8 @@
-/*
-https://practice.geeksforgeeks.org/problems/rotation4723/1
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://practice.geeksforgeeks.org/problems/rotation4723/1
 */
 
 import java.util.*;
@@ -29,10 +32,8 @@ class Solution {
                 end=mid-1;
             }
             else
-                start=mid+1;
-            
+                start=mid+1;            
         }
-        return pos;
-        
+        return pos;        
     }
 }
