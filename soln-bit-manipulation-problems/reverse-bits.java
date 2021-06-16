@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/reverse-bits/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/reverse-bits/
 */
 
 import java.util.*;
