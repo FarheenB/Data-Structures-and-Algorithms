@@ -1,7 +1,10 @@
-/*
-https://leetcode.com/problems/range-sum-query-mutable/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/range-sum-query-mutable/
 
-NOTE: Using Segment Trees
+ NOTE: Using Segment Trees
 */
 
 import java.util.*;
