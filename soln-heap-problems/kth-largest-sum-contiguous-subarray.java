@@ -1,5 +1,8 @@
-/*
-https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/
 */
 
 import java.util.*;
