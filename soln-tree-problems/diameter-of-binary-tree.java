@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/diameter-of-binary-tree/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/diameter-of-binary-tree/
 */
 
 import java.util.*;
