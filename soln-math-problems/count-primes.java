@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/count-primes
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/count-primes
 */
 
 import java.util.*;
