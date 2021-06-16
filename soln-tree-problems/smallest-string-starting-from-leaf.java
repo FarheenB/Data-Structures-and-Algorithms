@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/smallest-string-starting-from-leaf/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/smallest-string-starting-from-leaf/
 */
 
 import java.util.*;
