@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/walls-and-gates/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/walls-and-gates/
 */
 
 import java.util.*;
