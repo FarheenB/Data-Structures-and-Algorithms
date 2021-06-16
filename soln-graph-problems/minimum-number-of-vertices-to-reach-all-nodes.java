@@ -1,6 +1,8 @@
-
-/*
-https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes
 */
 
 import java.util.*;
