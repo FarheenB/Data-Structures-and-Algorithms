@@ -1,5 +1,8 @@
-/*
-https://www.geeksforgeeks.org/find-whether-path-two-cells-matrix/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/find-whether-path-two-cells-matrix/
 */
 
 class Solution
