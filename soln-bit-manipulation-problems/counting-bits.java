@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/counting-bits
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/counting-bits
 */
 
 import java.util.*;
