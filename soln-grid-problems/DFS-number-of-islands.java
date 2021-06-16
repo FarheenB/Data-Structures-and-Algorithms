@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/number-of-islands/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/number-of-islands/
 */
 
 import java.util.*;
