@@ -1,5 +1,8 @@
-/*
-https://www.interviewbit.com/problems/painters-partition-problem/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.interviewbit.com/problems/painters-partition-problem/
 */
 
 import java.util.*;
