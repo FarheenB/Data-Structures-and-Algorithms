@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/reverse-a-linked-list/
-https://leetcode.com/problems/reverse-linked-list/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/reverse-a-linked-list/
+ https://leetcode.com/problems/reverse-linked-list/
 */
 
 import java.util.*;
