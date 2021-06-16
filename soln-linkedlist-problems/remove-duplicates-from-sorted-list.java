@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/remove-duplicates-from-sorted-list
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/remove-duplicates-from-sorted-list
 */
 
 import java.util.*;
