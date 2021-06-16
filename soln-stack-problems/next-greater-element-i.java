@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/next-greater-element-i/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/next-greater-element-i/
 */
 
 import java.util.*;
