@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/find-first-and-last-positions-of-an-element-in-a-sorted-array/
-https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/find-first-and-last-positions-of-an-element-in-a-sorted-array/
+ https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 */
 
 import java.util.*;
