@@ -1,9 +1,12 @@
-/*
-https://leetcode.com/problems/the-maze-ii
+/**
+ @author Farheen Bano
+ 
+ The ball can go through the empty spaces by rolling up, down, left or right, but it won't stop rolling until hitting a wall. When the ball stops, it could choose the next direction.
+ 
+ Reference-
+ https://leetcode.com/problems/the-maze-ii
 
-NOTE: The ball can go through the empty spaces by rolling up, down, left or right, but it won't stop rolling until hitting a wall. When the ball stops, it could choose the next direction.
-
-BFS approach has an improved execution time over DFS approach for finding shortest path.
+ NOTE: BFS approach has an improved execution time over DFS approach for finding shortest path.
 */
 
 public class Solution {
