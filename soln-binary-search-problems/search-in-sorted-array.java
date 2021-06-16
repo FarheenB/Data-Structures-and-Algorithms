@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/binary-search/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/binary-search/
 */
 
 import java.util.*;
