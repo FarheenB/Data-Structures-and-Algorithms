@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/word-pattern/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/word-pattern/
 */
 
 import java.util.*;
@@ -34,7 +37,6 @@ class Solution {
                 map.put(pattern_char[i],str[i]);
             }
         }
-        return true;
-         
+        return true;         
     }
 }
