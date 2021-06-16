@@ -74,7 +74,7 @@ Some popular problems-
 * [Bubble Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Bubble-Sort.java)
 * [Insertion Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Insertion-Sort.java)
 * [Mergesort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Merge-Sort.java)
-* [Quicksort]9https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Quick-Sort.java)
+* [Quicksort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Quick-Sort.java)
 * [Heapsort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Heap-Sort.java)
 
 #### Searching
