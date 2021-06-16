@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/find-palindromic-sub-strings-given-string-set-2/
-https://leetcode.com/problems/palindromic-substrings/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/find-palindromic-sub-strings-given-string-set-2/
+ https://leetcode.com/problems/palindromic-substrings/
 */
 
 import java.util.*;
