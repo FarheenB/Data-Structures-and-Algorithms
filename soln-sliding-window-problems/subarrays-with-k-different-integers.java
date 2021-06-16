@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/subarrays-with-k-different-integers
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/subarrays-with-k-different-integers
 */
 
 import java.util.*;
