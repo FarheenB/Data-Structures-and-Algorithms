@@ -1,6 +1,9 @@
-/*
-https://leetcode.com/problems/symmetric-tree/
-https://www.geeksforgeeks.org/symmetric-tree-tree-which-is-mirror-image-of-itself/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://leetcode.com/problems/symmetric-tree/
+ https://www.geeksforgeeks.org/symmetric-tree-tree-which-is-mirror-image-of-itself/
 */
 
 import java.io.*;
