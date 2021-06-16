@@ -1,7 +1,10 @@
-/*
-https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 
-Note: Variation of longest-k-unique-characters-substring
+ Note: Variation of longest-k-unique-characters-substring
 */
 
 import java.util.*;
