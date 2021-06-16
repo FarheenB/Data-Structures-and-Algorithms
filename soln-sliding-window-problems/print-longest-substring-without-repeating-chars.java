@@ -1,5 +1,8 @@
-/*
-https://www.geeksforgeeks.org/print-longest-substring-without-repeating-characters/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/print-longest-substring-without-repeating-characters/
 */
 
 import java.util.*;
@@ -22,24 +25,23 @@ class Solution{
                     max=j-i+1;
                     result=s.substring(i,j+1);                   
                 }
-	            j++;
-	        }  
+	    	j++;
+	    }  
             else if(map.get(str[j])>1){
                 while(map.get(str[j])>1 && i<str.length){
     	            if(map.containsKey(str[i])){
-        	            if(map.get(str[i])>0){
-        	                map.put(str[i],map.get(str[i])-1);
-        	            }
-        	            else{
-        	                map.remove(str[i]);
-        	            }
+			if(map.get(str[i])>0){
+			    map.put(str[i],map.get(str[i])-1);
+			}
+			else{
+			    map.remove(str[i]);
+			}
     	            }
     	            i++;
     	        }
     	        j++;
             }
-	    }
-	   
-	    return result;
-	}
+	}	   
+	return result;
+    }
 }
