@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/
 */
 
 /**
