@@ -1,6 +1,9 @@
-/*
-https://leetcode.com/problems/leaf-similar-trees/
-https://www.geeksforgeeks.org/check-if-leaf-traversal-of-two-binary-trees-is-same/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://leetcode.com/problems/leaf-similar-trees/
+ https://www.geeksforgeeks.org/check-if-leaf-traversal-of-two-binary-trees-is-same/
 */
 
 import java.io.*;
