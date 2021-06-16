@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix
 */
 
 import java.util.*;
