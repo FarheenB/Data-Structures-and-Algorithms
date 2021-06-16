@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/delete-node-in-a-linked-list/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/delete-node-in-a-linked-list/
 */
 
 import java.util.*;
