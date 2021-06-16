@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/find-sum-left-leaves-given-binary-tree/
-https://leetcode.com/problems/sum-of-left-leaves/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/find-sum-left-leaves-given-binary-tree/
+ https://leetcode.com/problems/sum-of-left-leaves/
 */
 
 import java.util.*;
