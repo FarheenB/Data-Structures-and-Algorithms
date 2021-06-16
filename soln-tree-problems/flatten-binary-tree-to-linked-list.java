@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 */
 
 import java.util.*;
