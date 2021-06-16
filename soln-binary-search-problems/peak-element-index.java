@@ -1,6 +1,9 @@
-/*
-https://practice.geeksforgeeks.org/problems/peak-element/1
-https://leetcode.com/problems/find-peak-element/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://practice.geeksforgeeks.org/problems/peak-element/1
+ https://leetcode.com/problems/find-peak-element/
 */
 
 import java.util.*;
