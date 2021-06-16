@@ -1,7 +1,10 @@
-/*
-https://leetcode.com/problems/min-cost-to-connect-all-points/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/min-cost-to-connect-all-points/
 
-NOTE: Using Kruskal's Algorithm
+ NOTE: Using Kruskal's Algorithm
 */
 
 import java.util.*;
