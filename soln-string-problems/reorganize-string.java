@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/reorganize-string/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/reorganize-string/
 */
 
 import java.util.*;
