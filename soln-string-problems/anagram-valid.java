@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/
-https://leetcode.com/problems/valid-anagram/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/
+ https://leetcode.com/problems/valid-anagram/
 */
 
 import java.util.*;
