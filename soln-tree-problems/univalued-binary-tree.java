@@ -1,4 +1,8 @@
-/*https://leetcode.com/problems/univalued-binary-tree/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/univalued-binary-tree/
 */
 
 import java.io.*;
