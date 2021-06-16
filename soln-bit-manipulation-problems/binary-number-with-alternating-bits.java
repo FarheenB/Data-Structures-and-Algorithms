@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/binary-number-with-alternating-bits/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/binary-number-with-alternating-bits/
 */
 
 import java.util.*;
