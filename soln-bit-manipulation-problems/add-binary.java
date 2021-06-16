@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/add-binary/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/add-binary/
 */
 
 import java.util.*;
