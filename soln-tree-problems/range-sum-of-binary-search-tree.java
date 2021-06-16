@@ -1,6 +1,9 @@
-/*
-https://leetcode.com/problems/range-sum-of-bst/
-https://www.geeksforgeeks.org/count-bst-nodes-that-are-in-a-given-range/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://leetcode.com/problems/range-sum-of-bst/
+ https://www.geeksforgeeks.org/count-bst-nodes-that-are-in-a-given-range/
 */
 
 import java.io.*;
