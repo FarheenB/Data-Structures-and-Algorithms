@@ -1,6 +1,9 @@
-/*
-https://practice.geeksforgeeks.org/problems/count-the-paths4332/1
-https://leetcode.com/problems/all-paths-from-source-to-target/submissions/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://practice.geeksforgeeks.org/problems/count-the-paths4332/1
+ https://leetcode.com/problems/all-paths-from-source-to-target/submissions/
 */
 
 import java.util.*;
