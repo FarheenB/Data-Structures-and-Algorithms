@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/network-delay-time/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/network-delay-time/
 */
 
 import java.util.*;
