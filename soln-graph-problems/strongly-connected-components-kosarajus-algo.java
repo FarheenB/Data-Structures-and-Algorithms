@@ -1,5 +1,8 @@
-/*
-https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1
 */
 
 import java.util.*;
