@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/battleships-in-a-board/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/battleships-in-a-board/
 */
 
 import java.util.*;
