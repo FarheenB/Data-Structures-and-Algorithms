@@ -1,5 +1,8 @@
-/*
-https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1
 */
 
 import java.util.*;
