@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/linked-list-cycle-ii
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/linked-list-cycle-ii
 */
 
 import java.util.*;
