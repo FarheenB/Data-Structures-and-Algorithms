@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/valid-anagram/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/valid-anagram/
 */
 
 import java.util.*;
