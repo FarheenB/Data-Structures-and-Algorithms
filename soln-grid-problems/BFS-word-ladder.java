@@ -1,6 +1,9 @@
-/*
-https://www.interviewbit.com/problems/word-ladder-i/
-https://leetcode.com/problems/word-ladder/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/word-ladder-i/
+ https://leetcode.com/problems/word-ladder/
 */
 
 class Solution {
