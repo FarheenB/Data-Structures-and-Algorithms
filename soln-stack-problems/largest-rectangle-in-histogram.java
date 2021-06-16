@@ -1,6 +1,9 @@
-/*
-https://leetcode.com/problems/largest-rectangle-in-histogram/
-https://www.geeksforgeeks.org/largest-rectangle-under-histogram/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://leetcode.com/problems/largest-rectangle-in-histogram/
+ https://www.geeksforgeeks.org/largest-rectangle-under-histogram/
 */
 
 import java.util.*;
