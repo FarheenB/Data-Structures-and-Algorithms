@@ -1,6 +1,9 @@
-/*
-https://www.interviewbit.com/problems/insertion-sort-list/
-https://leetcode.com/problems/insertion-sort-list/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/insertion-sort-list/
+ https://leetcode.com/problems/insertion-sort-list/
 */
 
 /**
