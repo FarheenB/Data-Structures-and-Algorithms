@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/k-closest-points-to-origin/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/k-closest-points-to-origin/
 */
 
 import java.util.*;
