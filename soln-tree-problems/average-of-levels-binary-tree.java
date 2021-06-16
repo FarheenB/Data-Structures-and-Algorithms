@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/averages-levels-binary-tree/
-https://leetcode.com/problems/average-of-levels-in-binary-tree/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/averages-levels-binary-tree/
+ https://leetcode.com/problems/average-of-levels-in-binary-tree/
 */
 
 import java.util.*;
