@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/single-element-in-a-sorted-array/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/single-element-in-a-sorted-array/
 */
 
 import java.util.*;
