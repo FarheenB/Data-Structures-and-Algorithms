@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
 */
 
 import java.util.*;
@@ -13,7 +16,7 @@ class Solution {
         for(int i:arr)
             list.add(i);
         
-       Collections.sort(list,(a, b)-> Integer.bitCount(a)==Integer.bitCount(b)?a-b:Integer.bitCount(a)-Integer.bitCount(b));
+        Collections.sort(list,(a, b)-> Integer.bitCount(a)==Integer.bitCount(b)?a-b:Integer.bitCount(a)-Integer.bitCount(b));
 
         for(int i=0;i<list.size();i++)
             arr[i]=list.get(i);
