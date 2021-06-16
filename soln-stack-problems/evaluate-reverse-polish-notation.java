@@ -1,6 +1,9 @@
-/*
-https://www.interviewbit.com/problems/evaluate-expression/
-https://leetcode.com/problems/evaluate-reverse-polish-notation/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/evaluate-expression/
+ https://leetcode.com/problems/evaluate-reverse-polish-notation/
 */
 
 class Solution {
