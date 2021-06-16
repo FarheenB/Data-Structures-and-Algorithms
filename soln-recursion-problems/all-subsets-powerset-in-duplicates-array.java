@@ -1,6 +1,9 @@
-/*
-https://practice.geeksforgeeks.org/problems/subsets-1587115621/1
-https://leetcode.com/problems/subsets-ii
+/**
+ @author Farheen Bano
+  
+ References-
+ https://practice.geeksforgeeks.org/problems/subsets-1587115621/1
+ https://leetcode.com/problems/subsets-ii
 */
 
 import java.util.*;
