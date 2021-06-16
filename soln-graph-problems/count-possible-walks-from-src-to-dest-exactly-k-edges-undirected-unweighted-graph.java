@@ -1,5 +1,8 @@
-/*
-https://practice.geeksforgeeks.org/problems/possible-paths3834/1
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://practice.geeksforgeeks.org/problems/possible-paths3834/1
 */
 
 import java.util.*;
