@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
 */
 
 import java.util.*;
