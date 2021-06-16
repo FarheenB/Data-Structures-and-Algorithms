@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/kth-largest-element-in-an-array/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/kth-largest-element-in-an-array/
 */
 
 class Solution {
