@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/find-the-longest-string-that-can-be-made-up-of-other-strings-from-the-array/
-https://leetcode.com/problems/longest-string-chain/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/find-the-longest-string-that-can-be-made-up-of-other-strings-from-the-array/
+ https://leetcode.com/problems/longest-string-chain/
 */
 
 import java.util.*;
