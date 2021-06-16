@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/fruit-into-baskets
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/fruit-into-baskets
 */
 
 import java.util.*;
