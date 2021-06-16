@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/k-th-symbol-in-grammar/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/k-th-symbol-in-grammar/
 */
 
 import java.util.*;
