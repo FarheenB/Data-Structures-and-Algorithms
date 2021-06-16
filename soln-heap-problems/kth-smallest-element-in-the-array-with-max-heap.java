@@ -1,6 +1,9 @@
-/*
-https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1
-https://www.interviewbit.com/problems/kth-smallest-element-in-the-array/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1
+ https://www.interviewbit.com/problems/kth-smallest-element-in-the-array/
 */
 
 public class Solution {
