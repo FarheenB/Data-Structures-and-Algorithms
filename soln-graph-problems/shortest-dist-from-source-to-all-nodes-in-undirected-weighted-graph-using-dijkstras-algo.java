@@ -1,5 +1,8 @@
-/*
-https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
 */
 
 import java.util.*;
