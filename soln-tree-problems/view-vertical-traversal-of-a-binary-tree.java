@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
 */
 
 /**
