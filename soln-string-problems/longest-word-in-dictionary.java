@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/longest-word-in-dictionary/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/longest-word-in-dictionary/
 */
 
 import java.util.*;
