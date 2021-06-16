@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/single-number
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/single-number
 */
 
 import java.util.*;
