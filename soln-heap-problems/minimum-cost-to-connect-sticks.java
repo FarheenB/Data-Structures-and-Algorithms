@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/minimum-cost-to-connect-sticks/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/minimum-cost-to-connect-sticks/
 */
 
 class Solution {
