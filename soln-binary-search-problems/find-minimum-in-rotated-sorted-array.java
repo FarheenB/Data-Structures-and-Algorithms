@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
 */
 
 import java.util.*;
