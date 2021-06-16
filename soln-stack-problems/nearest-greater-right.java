@@ -1,5 +1,8 @@
-/*
-https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1
 */
 
 import java.util.*;
