@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/detect-cycles-in-2d-grid
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/detect-cycles-in-2d-grid
 */
 
 import java.util.*;
@@ -34,7 +37,6 @@ class Solution {
         return (dir!=1 && dfsCycleDetect(grid, i-1, j, ch, 3)) || 
                (dir!=2 && dfsCycleDetect(grid, i, j+1, ch, 4)) || 
                (dir!=3 && dfsCycleDetect(grid, i+1, j, ch , 1)) || 
-               (dir!=4 && dfsCycleDetect(grid, i, j-1, ch, 2));      
-        
+               (dir!=4 && dfsCycleDetect(grid, i, j-1, ch, 2));              
     }
 }
