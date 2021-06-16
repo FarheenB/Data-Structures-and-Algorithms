@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/combinations/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/combinations/
 */
 
 import java.util.*;
