@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/binary-tree-paths
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/binary-tree-paths
 */
 
 import java.util.*;
