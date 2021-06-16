@@ -1,5 +1,8 @@
-/*
-https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/
 */
 
 import java.util.*;
