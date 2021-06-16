@@ -1,7 +1,10 @@
-/*
-https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1
-https://www.interviewbit.com/problems/window-string/
-https://leetcode.com/problems/minimum-window-substring/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1
+ https://www.interviewbit.com/problems/window-string/
+ https://leetcode.com/problems/minimum-window-substring/
 */
 
 import java.util.*;
