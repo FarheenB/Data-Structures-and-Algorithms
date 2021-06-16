@@ -1,6 +1,9 @@
-/*
-https://practice.geeksforgeeks.org/problems/k-closest-elements3619/1#
-https://leetcode.com/problems/find-k-closest-elements/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://practice.geeksforgeeks.org/problems/k-closest-elements3619/1#
+ https://leetcode.com/problems/find-k-closest-elements/
 */
 
 
