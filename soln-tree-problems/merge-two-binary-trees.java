@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/merge-two-binary-trees/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/merge-two-binary-trees/
 */
 
 import java.util.*;
