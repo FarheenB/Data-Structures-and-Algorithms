@@ -1,7 +1,9 @@
-
-/*
-https://leetcode.com/problems/same-tree/
-https://www.geeksforgeeks.org/check-if-two-trees-have-same-structure/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://leetcode.com/problems/same-tree/
+ https://www.geeksforgeeks.org/check-if-two-trees-have-same-structure/
 */
 
 import java.io.*;
