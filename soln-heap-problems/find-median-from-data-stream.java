@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/find-median-from-data-stream/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/find-median-from-data-stream/
 */
 
 import java.util.*;
