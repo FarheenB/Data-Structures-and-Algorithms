@@ -1,7 +1,10 @@
-/*
-https://leetcode.com/problems/word-search/
-
-NOTE: "adjacent" cells are horizontally or vertically neighboring. The same letter cell may not be used more than once.
+/**
+ @author Farheen Bano
+ 
+ The "adjacent" cells are horizontally or vertically neighboring. The same letter cell may not be used more than once.
+ 
+ Reference-
+ https://leetcode.com/problems/word-search/
 */
 
 import java.util.*;
@@ -19,7 +22,6 @@ class Solution {
         return false;
     }
     
-
     public boolean dfs( int i, int j, char[][] board, String word, int k) {
         if (k == word.length()) 
             return true;
