@@ -1,6 +1,9 @@
-/*
-https://leetcode.com/problems/convert-bst-to-greater-tree
-https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://leetcode.com/problems/convert-bst-to-greater-tree
+ https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
 */
 
 import java.util.*;
