@@ -1,5 +1,8 @@
-/*
-https://practice.geeksforgeeks.org/problems/game-of-death-in-a-circle/0#
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://practice.geeksforgeeks.org/problems/game-of-death-in-a-circle/0#
 */
 
 import java.util.*;
