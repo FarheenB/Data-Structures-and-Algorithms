@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/letter-case-permutation/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/letter-case-permutation/
 */
 
 import java.util.*;
