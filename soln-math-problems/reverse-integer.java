@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/reverse-integer/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/reverse-integer/
 */
 
 import java.util.*;
