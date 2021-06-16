@@ -1,22 +1,25 @@
-/*
-https://www.interviewbit.com/problems/shortest-unique-prefix/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.interviewbit.com/problems/shortest-unique-prefix/
 */
 
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class TrieNode{
+class TrieNode {
     char val;
     int count;
     int endsHere;
     TrieNode[] links;
     
-    TrieNode(){
+    TrieNode() {
         links=new TrieNode[26];
     }
     
-    TrieNode getNode(int index){
+    TrieNode getNode(int index) {
         TrieNode newNode=new TrieNode();
         newNode.val=(char)('a'+index);
         newNode.count=newNode.endsHere=0;
@@ -36,9 +39,9 @@ class Trie {
     public void insert(String word) {
         TrieNode curr=root;
         int index;
-        for(int i=0;i<word.length();i++){
+        for(int i=0;i<word.length();i++) {
             index=word.charAt(i)-'a';
-            if(curr.links[index]==null){
+            if(curr.links[index]==null) {
                 curr.links[index]=new TrieNode().getNode(index);
             }
             curr.links[index].count++;
@@ -48,14 +51,13 @@ class Trie {
         curr.endsHere++;
     }
     
-    public String getPrefix(String word){
+    public String getPrefix(String word) {
         TrieNode curr=root;
         String pre="";
         int index;
         for(int i=0;i<word.length();i++){
             index=word.charAt(i)-'a';
-            if(curr.links[index].count==1 || curr.links[index].endsHere>0)
-            {
+            if(curr.links[index].count==1 || curr.links[index].endsHere>0) {
                 pre+=word.charAt(i);
                 return pre;
             }    
@@ -73,7 +75,7 @@ public class Solution {
         for(String word:A){
             trie.insert(word);
         }
-        for(int i=0;i<A.length;i++){
+        for(int i=0;i<A.length;i++) {
             
             String str=trie.getPrefix(A[i]);
             uni_prefix[i]=str;
