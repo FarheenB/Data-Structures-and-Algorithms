@@ -1,5 +1,8 @@
-/*
-https://www.geeksforgeeks.org/merge-sort/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/merge-sort/
 */
 
 import java.io.*;
