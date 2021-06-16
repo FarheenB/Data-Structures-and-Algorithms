@@ -1,6 +1,9 @@
-/*
-https://leetcode.com/problems/cousins-in-binary-tree/
-https://www.geeksforgeeks.org/check-two-nodes-cousins-binary-tree/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://leetcode.com/problems/cousins-in-binary-tree/
+ https://www.geeksforgeeks.org/check-two-nodes-cousins-binary-tree/
 */
 
 import java.io.*;
