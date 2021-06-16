@@ -1,5 +1,8 @@
-/*
-https://www.interviewbit.com/problems/nearest-smaller-element/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.interviewbit.com/problems/nearest-smaller-element/
 */
 
 import java.util.*;
