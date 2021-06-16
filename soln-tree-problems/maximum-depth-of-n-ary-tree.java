@@ -1,6 +1,9 @@
-/*
-https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
-https://www.geeksforgeeks.org/depth-n-ary-tree/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
+ https://www.geeksforgeeks.org/depth-n-ary-tree/
 */
 
 import java.io.*;
