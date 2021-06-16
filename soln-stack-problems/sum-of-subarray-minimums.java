@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/sum-of-subarray-minimums
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/sum-of-subarray-minimums
 */
 
 import java.util.*;
