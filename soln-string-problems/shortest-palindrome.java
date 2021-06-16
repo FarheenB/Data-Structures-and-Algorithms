@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/shortest-palindrome
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/shortest-palindrome
 */
 
 import java.util.*;
