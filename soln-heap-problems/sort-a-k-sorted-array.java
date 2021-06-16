@@ -1,5 +1,8 @@
-/*
-https://practice.geeksforgeeks.org/problems/nearly-sorted-algorithm/0
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://practice.geeksforgeeks.org/problems/nearly-sorted-algorithm/0
 */
 
 import java.util.*;
