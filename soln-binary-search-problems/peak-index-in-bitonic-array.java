@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/find-element-bitonic-array/
-https://leetcode.com/problems/peak-index-in-a-mountain-array/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/find-element-bitonic-array/
+ https://leetcode.com/problems/peak-index-in-a-mountain-array/
 */
 
 class Solution {
