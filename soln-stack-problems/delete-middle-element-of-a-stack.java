@@ -1,5 +1,8 @@
-/*
-https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1
 */
 
 import java.util.*;
