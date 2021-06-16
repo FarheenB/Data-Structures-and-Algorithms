@@ -1,5 +1,8 @@
-/*
-https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
 */
 
 import java.util.*;
