@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/is-graph-bipartite
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/is-graph-bipartite
 */
 
 import java.util.*;
