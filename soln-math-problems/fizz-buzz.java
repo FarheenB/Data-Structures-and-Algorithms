@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/fizz-buzz/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/fizz-buzz/
 */
 
 import java.util.*;
