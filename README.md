@@ -74,7 +74,7 @@ If you have any questions, requests, or find any error in the provided solutions
   - [String compression](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-string-problems/string-compression.java)
   - [Flip game](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-string-problems/flip-game.java)
   - [Detect Capital](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-string-problems/detect-capital.java)
-  - Word Break(https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-string-problems/word-break.java)
+  - [Word Break](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-string-problems/word-break.java)
   
 * Searching
   -
