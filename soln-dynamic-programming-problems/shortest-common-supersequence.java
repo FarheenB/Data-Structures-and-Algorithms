@@ -3,6 +3,8 @@
   
  Reference-
  https://www.geeksforgeeks.org/shortest-common-supersequence/
+ 
+ NOTE: Variation of Longest Common Subsequence
 */ 
 
 import java.util.*;
