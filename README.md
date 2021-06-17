@@ -36,14 +36,18 @@ If you have any questions, requests, or find any error in the provided solutions
   - [kth row of Pascal's Triangle](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/b23a355c8b8b42efd3409e19742480cb8fe2b5fb/soln-math-problems/kth-row-of-pascals-triangle.java)
   - Square Root
   - [Reduce Number to 0](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-math-problems/number-of-steps-to-reduce-a-number-to-zero.java)
+  
 * Recursion
   -
+  
 * Strings
   -
+  
 * Searching
   -
   - Linear Search
   - [Binary Search](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-binary-search-problems)
+  
 * Sorting
   -
   - [Selection Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Selection-Sort.java)
@@ -53,8 +57,30 @@ If you have any questions, requests, or find any error in the provided solutions
   - [Quick Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Quick-Sort.java)
   - [Heap Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Heap-Sort.java)
   - [Pancake Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/pancake-sorting.java)
+
 * Sliding Window
   -
+  - [Find all anagrams in a string](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/find-all-anagrams-in-a-string.java)
+  - [Longest k unique characters substring](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/longest-k-unique-characters-substring.java)
+  - [Longest continuous subarray with absolute diff less than or equal to limit](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/longest-subarray-abs-diff-less-than-equal-to-k.java)
+  - [Longest substring with at least k repeating characters](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/longest-substring-with-at-least-k-repeating-characters.java)
+  - [Longest substring with at most k distinct characters](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/longest-substring-with-at-most-k-distinct-chars.java)
+  - [Longest substring with at most two distinct characters](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/longest-substring-with-at-most-two-distinct-chars.java)
+  - [Longest substring without repeating characters](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/longest-substring-without-repeating-chars.java)
+  - [Maximum sum subarray of size](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/max-sum-subarray-of-size-k.java)
+  - [Maximum number of vowels in a substring of given length](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/maximum-number-of-vowels-in-a-substring-of-given-length.java)
+  - [Maximum of all subarrays of size](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/maximum-of-all-subarrays-of-size-k.java)
+  - [Minimum size subarray sum](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/positive-integers-min-size-subarray-greater-equal-to-sum-s.java)
+  - [Minimum number of k consecutive bit flips](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/minimum-number-of-k-consecutive-bit-flips.java)
+  - [Minimum operations to reduce x to zero](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/minimum-operations-to-reduce-x-to-zero.java)
+  - [Smallest window in a string containing all the characters of another string](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/minimum-window-substring.java)
+  - [Repeated DNA sequences](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/repeated-dna-sequences.java)
+  - [Sliding window median](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/sliding-window-median.java)
+  - [Subarray with given sum](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/positive-integers-subarray-with-given-sum-s.java)
+  - [Subarrays with k different integers](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/subarrays-with-k-different-integers.java)
+  - [Count number of nice subarray](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/count-number-of-nice-subarrays.java)
+  - [Fruit into baskets](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/fruit-into-baskets.java)
+  
 * Linked Lists
   - 
   - [Delete node](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/delete-a-node.java)
@@ -73,8 +99,7 @@ If you have any questions, requests, or find any error in the provided solutions
   - [Insert into sorted linkedlist](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/insert-into-a-sorted-circular-linked-list.java)
   - [Add 2 numbers](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/add-two-numbers-represented-as-linked-list.java) 
   - [Add 2 polynomials](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/add-two-polynomials-represented-as-linked-lists.java) 
-  
-
+ 
 * Trees
   -
   - **Binary Tree Traversal**
