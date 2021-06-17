@@ -19,28 +19,33 @@ If you have any questions, requests, or find any error in the provided solutions
 
 ### Algorithms by Topic
 * Math
+  -
   - [Bit Manipulation](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-bit-manipulation-problems)
-  - Broken Calculator(https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-math-problems/broken-calculator.java)
-  - Reverse Integer(https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-math-problems/reverse-integer.java)
+  - [Broken Calculator](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-math-problems/broken-calculator.java)
+  - [Reverse Integer](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-math-problems/reverse-integer.java)
   - Factorial
   - Fibonacci Number
-  - Happy Number(https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-math-problems/happy-number.java)
-  - Missing Number(https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-math-problems/missing-number.java)
+  - [Happy Number](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-math-problems/happy-number.java)
+  - [Missing Number](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-math-problems/missing-number.java)
   - Prime Factors
   - Greatest Common Divisor
   - Least Common Multiple
-  - Count Primes(https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-math-problems/count-primes.java)
+  - [Count Primes](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-math-problems/count-primes.java)
   - Prime Numbers
   - [Pascal's Triangle](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/b23a355c8b8b42efd3409e19742480cb8fe2b5fb/soln-math-problems/pascals-triangle.java)
   - [kth row of Pascal's Triangle](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/b23a355c8b8b42efd3409e19742480cb8fe2b5fb/soln-math-problems/kth-row-of-pascals-triangle.java)
   - Square Root
-  - Reduce Number to 0(https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-math-problems/number-of-steps-to-reduce-a-number-to-zero.java)
-* [Recursion](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-recursion-problems)
-* [Strings](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-string-problems)
-* **Searching**
+  - [Reduce Number to 0](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-math-problems/number-of-steps-to-reduce-a-number-to-zero.java)
+* Recursion
+  -
+* Strings
+  -
+* Searching
+  -
   - Linear Search
   - [Binary Search](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-binary-search-problems)
-* **Sorting**
+* Sorting
+  -
   - [Selection Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Selection-Sort.java)
   - [Bubble Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Bubble-Sort.java)
   - [Insertion Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Insertion-Sort.java)
@@ -48,12 +53,13 @@ If you have any questions, requests, or find any error in the provided solutions
   - [Quick Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Quick-Sort.java)
   - [Heap Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Heap-Sort.java)
   - [Pancake Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/pancake-sorting.java)
-* [Sliding Window](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-sliding-window-problems)
+* Sliding Window
   -
 * Linked Lists
   -
 
-* **Trees**
+* Trees
+  -
   - **Binary Tree Traversal**
     - [Inorder](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-tree-binary-problems/traversal-inorder-binary-tree.java)
     - [Preorder](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-tree-binary-problems/traversal-preorder-binary-tree.java)
@@ -143,7 +149,6 @@ If you have any questions, requests, or find any error in the provided solutions
 * [Greedy Approach](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-greedy-problems)
   -
 
-### Sorting
 
 
 ### Miscellaneous
