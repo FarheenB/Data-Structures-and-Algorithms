@@ -56,7 +56,24 @@ If you have any questions, requests, or find any error in the provided solutions
 * Sliding Window
   -
 * Linked Lists
-  -
+  - 
+  - [Delete node](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/delete-a-node.java)
+  - [Reverse linkedlist](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/reverse-linked-list.java)
+  - [Swap nodes in pairs](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/swap-nodes-in-pairs.java)
+  - [Odd-Even nodes](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/odd-even-linked-list.java)
+  - [Detect loop](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/detect-loop-in-a-linked-list.java)
+  - [Find start of loop](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/find-start-of-loop-in-a-linked-list.java)
+  - [Remove duplicates](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/remove-duplicates-from-sorted-list.java)
+  - [Remove nth node from end](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/remove-nth-node-from-end-of-list.java)
+  - [Sort list with Insertion Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/sort-list-with-insertion-sort.java)
+  - [Sort list with Heap Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/sort-list-with-heap-sort.java)
+  - [Sort list with Merge Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/sort-list-with-merge-sort.java)
+  - [Merge 2 sorted linkedlist](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/merge-two-sorted-linked-lists.java)
+  - [Merge k sorted linkedlist](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/merge-k-sorted-linked-lists.java)
+  - [Insert into sorted linkedlist](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/insert-into-a-sorted-circular-linked-list.java)
+  - [Add 2 numbers](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/add-two-numbers-represented-as-linked-list.java) 
+  - [Add 2 polynomials](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/add-two-polynomials-represented-as-linked-lists.java) 
+  
 
 * Trees
   -
@@ -88,11 +105,14 @@ If you have any questions, requests, or find any error in the provided solutions
   - [Maximum Level Sum](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-tree-binary-problems/maximum-level-sum-binary-tree.java)
   - [Maximum Path Sum](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-tree-binary-problems/maximum-path-sum-binary-tree.java) 
   - Binary Search Tree
+    - [Create BST](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-binary-trees-problems/convert-sorted-list-to-binary-search-tree.java) 
     - [Validate BST](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-tree-binary-problems/is-valid-binary-search-tree.java)
     - [Search BST](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-tree-binary-problems/search-in-a-binary-search-tree.java)
     - [Insert in BST](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-tree-binary-problems/insert-node-binary-search-tree.java)
     - [Delete in BST](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-tree-binary-problems/delete-node-binary-search-tree.java)
-* **Graphs**
+    
+* Graphs
+  -
   - **Graph Traversal**
     - [Breadth-First Search](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-graph-problems/bfs-traversal-of-graph.java)
     - [Depth-First Search](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-graph-problems/all-paths-from-source-to-target-using-dfs.java)
@@ -120,17 +140,40 @@ If you have any questions, requests, or find any error in the provided solutions
 
 ### Algorithms by Paradigm
 
+* Divide and Conquer 
+  -
+Divides the problem into smaller parts and then solve those parts
+  - [Binary Search](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-binary-search-problems)
+  - [Merge Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Merge-Sort.java)
+  - [Quick Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Quick-Sort.java)
+
+* Greedy Approach
+  -
+Chooses the best option at the current time, without any consideration for the future
+  - [Jump Game](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/b23a355c8b8b42efd3409e19742480cb8fe2b5fb/soln-array-problems/jump-game-forward-can-reach-end.java)
+  -[Dijkstra's Algorithm](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-graph-problems/shortest-dist-from-source-to-all-nodes-in-undirected-weighted-graph-using-dijkstras-algo.java)
+  - [Kruskal's Algorithm](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-graph-problems/minimum-spanning-tree-using-kruskals-algo.java)
+  - Prim's Algorithm
+  - [Circular Gas Station](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-greedy-problems/circular-gas-station.java)
+  - [Partition Labels](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-greedy-problems/partition-labels.java)
+  
 * Dynamic Programming
+  -
+Builds solution using previously found sub-solutions
   - [Fibonacci Series](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/fibonacci-series.java)
   - [Climbing Stairs](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/climbing-stairs.java)
-  - [0-1 Knapsack](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/01-knapsack.java) 
+  - [Decode Ways](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/decode-ways.java)
+  - [0/1 Knapsack](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/01-knapsack.java) 
   - [Longest Increasing Subsequence](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/longest-increasing-subsequence.java)
+  - [Russian Doll Envelopes](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/russian-doll-envelopes.java)
   - [Longest Common Subsequence](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/longest-common-subsequence.java)
+  - [Shortest Common Supersequence](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/shortest-common-supersequence.java)
   - [Longest Common Substring](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/longest-common-substring.java)
   - [Longest Common Palindromic Subsequence](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/longest-palindromic-subsequence.java)
   - [Longest Common Palindromic Substring](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/longest-palindromic-substring.java)
   - [Longest Repeating Subsequence](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/longest-repeating-subsequence.java)
   - [Longest Repeating Substring](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/longest-repeating-substring.java)
+  - [Longest Valid Parentheses](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/longest-valid-parentheses.java)
   - [Edit (Levenshtein) Distance](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/edit-distance.java)
   - [Subset Sum](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/subset-sum.java)
   - [Matrix Chain Multiplication](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/matrix-chain-multiplication.java)
@@ -138,18 +181,23 @@ If you have any questions, requests, or find any error in the provided solutions
   - [Unbounded Knapsack](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/unbounded-knapsack.java)
   - [Coin Change-No. of Ways](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/coin-change-count-ways.java)
   - [Coin Change-No. of Coins](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/coin-change-no-of-coins.java)
+  - [Rod Cutting Problem](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/rod-cutting-variable-length.java)
   - [Egg Dropping Problem](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/egg-dropping-puzzle.java)
   - [Boolean Parenthesization](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/boolean-parenthesization.java)
   - [Scramble String](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/scramble_string.java)
-  - [Bellman-Ford]
-  - [Floyd-Warshall]
+  - Bellman-Ford
+  - Floyd-Warshall
+  - [Unique BST](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/unique-binary-search-trees.java)
 
-* [Backtracking](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-backtracking-problems)
+* Backtracking
   -
-* [Greedy Approach](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-greedy-problems)
-  -
-
-
+Similar to brute force, try to generate all possible solutions, but each time you generate next solution you test if it satisfies all conditions, and only then continue generating subsequent solutions. Otherwise, backtrack, and go on a different path of finding a solution. 
+  - [Permutations(with repetitions)](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-backtracking-problems/permutations.java)
+  - [Permutations(without repetitions)](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-backtracking-problems/permutations-ii.java)
+  - [Combinations](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-backtracking-problems/combinations.java)
+  - [Power Set](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-backtracking-problems/subsets-ii.java)
+  - [Power Set(unique elements array)](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-backtracking-problems/subsets.java)
+  - [N-Queens Problem](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-backtracking-problems/n-queen-problem.java)
 
 ### Miscellaneous
 * [Design Problems](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-design-problems)
