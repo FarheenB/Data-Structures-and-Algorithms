@@ -78,6 +78,7 @@ If you have any questions, requests, or find any error in the provided solutions
   - [Sliding window median](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/sliding-window-median.java)
   - [Subarray with given sum](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/positive-integers-subarray-with-given-sum-s.java)
   - [Subarrays with k different integers](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/subarrays-with-k-different-integers.java)
+  - [First negative integer in every window of size k](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/first-negative-integer-in-every-window-of-size-k.java)
   - [Count number of nice subarray](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/count-number-of-nice-subarrays.java)
   - [Fruit into baskets](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/fruit-into-baskets.java)
   
