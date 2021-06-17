@@ -1,6 +1,9 @@
-/*
-https://practice.geeksforgeeks.org/problems/sub-array-sum-divisible-by-k2617/1
-https://leetcode.com/problems/subarray-sums-divisible-by-k/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://practice.geeksforgeeks.org/problems/sub-array-sum-divisible-by-k2617/1
+ https://leetcode.com/problems/subarray-sums-divisible-by-k/
 */
 
 import java.util.*;

@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/monotonic-array/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/monotonic-array/
 */
 
 import java.util.*;

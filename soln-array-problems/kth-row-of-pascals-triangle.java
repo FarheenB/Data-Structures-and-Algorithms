@@ -1,5 +1,8 @@
-/*
-https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/
 */
 
 import java.util.*;

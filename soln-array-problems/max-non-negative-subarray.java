@@ -1,5 +1,8 @@
-/*
-https://www.interviewbit.com/problems/max-non-negative-subarray/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.interviewbit.com/problems/max-non-negative-subarray/
 */
 
 import java.util.*;

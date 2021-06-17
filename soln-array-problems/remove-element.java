@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/remove-element/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/remove-element/
 */
 
 import java.util.*;

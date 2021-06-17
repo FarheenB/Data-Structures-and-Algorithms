@@ -1,5 +1,8 @@
-/*
-https://www.interviewbit.com/problems/merge-overlapping-intervals/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.interviewbit.com/problems/merge-overlapping-intervals/
 */
 
 import java.util.*;

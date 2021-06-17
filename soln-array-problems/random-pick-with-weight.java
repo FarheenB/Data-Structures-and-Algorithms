@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/random-pick-with-weight/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/random-pick-with-weight/
 */
 
 class Solution {

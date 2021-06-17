@@ -4,7 +4,7 @@
  Reference-
  https://leetcode.com/problems/sort-list/
 
-NOTE:   Using Heap Sort
+ NOTE:  Using Heap Sort
         Time : O(nlogn)
         Space: O(n)
 */

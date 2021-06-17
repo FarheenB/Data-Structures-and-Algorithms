@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/shuffle-an-array/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/shuffle-an-array/
 */
 
 import java.util.*;

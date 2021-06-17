@@ -1,7 +1,10 @@
-/*
-https://www.interviewbit.com/problems/longest-consecutive-sequence/
-https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1
-https://leetcode.com/problems/longest-consecutive-sequence
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/longest-consecutive-sequence/
+ https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1
+ https://leetcode.com/problems/longest-consecutive-sequence
 */
 
 import java.util.*;

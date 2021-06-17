@@ -1,7 +1,10 @@
-/*
-https://www.interviewbit.com/problems/median-of-array/
-https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/
-https://leetcode.com/problems/median-of-two-sorted-arrays
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/median-of-array/
+ https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/
+ https://leetcode.com/problems/median-of-two-sorted-arrays
 */
 
 import java.util.*;

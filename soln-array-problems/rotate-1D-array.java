@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/rotate-array/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/rotate-array/
 */
 
 import java.util.*;

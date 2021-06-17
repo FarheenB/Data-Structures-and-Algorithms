@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/trapping-rain-water/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/trapping-rain-water/
 */
 
 import java.util.*;

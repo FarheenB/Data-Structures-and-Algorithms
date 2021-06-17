@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/run-length-encoding/
-https://leetcode.com/problems/string-compression/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/run-length-encoding/
+ https://leetcode.com/problems/string-compression/
 */
 
 import java.util.*;

@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/maximize-distance-to-closest-person
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/maximize-distance-to-closest-person
 */
 
 class Solution {

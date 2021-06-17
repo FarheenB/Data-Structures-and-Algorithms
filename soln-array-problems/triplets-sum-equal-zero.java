@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/find-triplets-array-whose-sum-equal-zero/
-https://leetcode.com/problems/3sum/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/find-triplets-array-whose-sum-equal-zero/
+ https://leetcode.com/problems/3sum/
 */
 
 import java.util.*;

@@ -1,6 +1,9 @@
-/*
-https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/
-https://leetcode.com/problems/remove-duplicates-from-sorted-array
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/
+ https://leetcode.com/problems/remove-duplicates-from-sorted-array
 */
 
 import java.util.*;

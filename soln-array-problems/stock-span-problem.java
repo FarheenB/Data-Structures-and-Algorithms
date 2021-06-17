@@ -1,7 +1,10 @@
-/*
-https://www.geeksforgeeks.org/the-stock-span-problem/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/the-stock-span-problem/
 
-NOTE: Variation of Nearest Greater to the left
+ NOTE: Variation of Nearest Greater to the left
 */
 
 import java.util.*;

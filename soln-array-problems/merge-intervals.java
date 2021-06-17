@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/merge-intervals/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/merge-intervals/
 */
 
 import java.util.*;

@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/squares-of-a-sorted-array/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/squares-of-a-sorted-array/
 */
 
 import java.util.*;

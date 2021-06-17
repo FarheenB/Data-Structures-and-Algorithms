@@ -1,3 +1,7 @@
+/**
+ @author Farheen Bano
+*/
+
 class Solution
 {
     int[] parent;

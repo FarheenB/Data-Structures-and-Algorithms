@@ -1,3 +1,7 @@
+/**
+ @author Farheen Bano
+*/
+
 class Solution {
     public int minJumps(int[] arr) {
         int n = arr.length;

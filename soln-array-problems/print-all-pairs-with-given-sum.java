@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/print-all-pairs-with-given-sum/
-https://www.geeksforgeeks.org/count-pairs-with-given-sum/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/print-all-pairs-with-given-sum/
+ https://www.geeksforgeeks.org/count-pairs-with-given-sum/
 */
 
 import java.io.*;

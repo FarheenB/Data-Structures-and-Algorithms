@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/spiral-matrix/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/spiral-matrix/
 */
 
 import java.util.*;

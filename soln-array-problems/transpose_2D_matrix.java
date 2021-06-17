@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/transpose-matrix/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/transpose-matrix/
 */
 
 import java.util.*;

@@ -1,8 +1,11 @@
-/*
-https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
-https://leetcode.com/problems/maximum-subarray/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
+ https://leetcode.com/problems/maximum-subarray/
 
-NOTE: Kadane's Algorithm
+ NOTE: Kadane's Algorithm
 */
 
 import java.util.*;

@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/maximum-product-subarray-set-3/
-https://leetcode.com/problems/maximum-product-subarray/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.geeksforgeeks.org/maximum-product-subarray-set-3/
+ https://leetcode.com/problems/maximum-product-subarray/
 */
 
 import java.util.*;

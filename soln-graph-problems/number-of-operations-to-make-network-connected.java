@@ -1,7 +1,10 @@
-/*
-https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/number-of-operations-to-make-network-connected/
 
-NOTE: Variation of Connected Components in a graph
+ NOTE: Variation of Connected Components in a graph
 */
 
 import java.util.*;

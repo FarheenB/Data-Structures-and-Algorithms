@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/peak-index-in-a-mountain-array/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/peak-index-in-a-mountain-array/
 */
 
 import java.util.*;

@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square
 */
 
 import java.util.*;

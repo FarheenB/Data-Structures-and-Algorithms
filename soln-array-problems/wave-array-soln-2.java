@@ -1,8 +1,11 @@
-/*
-https://www.interviewbit.com/problems/wave-array/
-https://www.geeksforgeeks.org/sort-array-wave-form-2/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.interviewbit.com/problems/wave-array/
+ https://www.geeksforgeeks.org/sort-array-wave-form-2/
 
-Solution 2:
+ Solution 2:
 */
 
 import java.util.*;

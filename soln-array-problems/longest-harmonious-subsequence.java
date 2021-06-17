@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/longest-harmonious-subsequence/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/longest-harmonious-subsequence/
 */
 
 import java.util.*;

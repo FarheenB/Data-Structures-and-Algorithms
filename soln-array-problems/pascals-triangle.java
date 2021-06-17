@@ -1,7 +1,10 @@
-/*
-https://www.interviewbit.com/problems/pascal-triangle/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.interviewbit.com/problems/pascal-triangle/
 
-Formula: For each element nCr=nCr-1 * (n-r+1/r)
+ Formula: For each element nCr=nCr-1 * (n-r+1/r)
 */
 
 import java.util.*;

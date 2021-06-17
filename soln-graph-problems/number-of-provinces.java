@@ -1,7 +1,10 @@
-/*
-https://leetcode.com/problems/number-of-provinces/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/number-of-provinces/
 
-NOTE: Finding all connected component in a graph 
+ NOTE: Finding all connected component in a graph 
 */
 
 import java.util.*;

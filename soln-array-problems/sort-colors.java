@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/sort-colors/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/sort-colors/
 */
 
 import java.util.*;

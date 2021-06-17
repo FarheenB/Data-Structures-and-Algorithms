@@ -1,6 +1,9 @@
-/*
-https://practice.geeksforgeeks.org/problems/minimum-difference-pair5444/1
-https://leetcode.com/problems/minimum-absolute-difference/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://practice.geeksforgeeks.org/problems/minimum-difference-pair5444/1
+ https://leetcode.com/problems/minimum-absolute-difference/
 */
 
 class Solution {

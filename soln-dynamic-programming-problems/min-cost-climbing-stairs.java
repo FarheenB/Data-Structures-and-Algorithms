@@ -1,4 +1,4 @@
-/*
+/**
  @author Farheen Bano
   
  Each time you can either climb 1 or 2 steps. Return the minimum cost to reach the top of the floor.

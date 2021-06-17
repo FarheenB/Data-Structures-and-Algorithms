@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/course-schedule-iv/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/course-schedule-iv/
 */
 
 import java.util.*;

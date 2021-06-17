@@ -1,5 +1,8 @@
-/*
-https://www.interviewbit.com/problems/order-of-people-heights/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.interviewbit.com/problems/order-of-people-heights/
 */
 
 import java.util.*;

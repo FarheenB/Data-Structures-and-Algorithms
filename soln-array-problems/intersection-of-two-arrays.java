@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/intersection-of-two-arrays
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/intersection-of-two-arrays
 */
 
 import java.util.*;

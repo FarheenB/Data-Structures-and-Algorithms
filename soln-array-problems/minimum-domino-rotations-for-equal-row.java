@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/minimum-domino-rotations-for-equal-row
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/minimum-domino-rotations-for-equal-row
 */
 
 import java.util.*;

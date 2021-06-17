@@ -1,5 +1,8 @@
-/*
-https://www.interviewbit.com/problems/intersection-of-sorted-arrays/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.interviewbit.com/problems/intersection-of-sorted-arrays/
 */
 
 import java.util.*;

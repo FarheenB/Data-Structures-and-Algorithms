@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/minimum-number-of-refueling-stops/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/minimum-number-of-refueling-stops/
 */
 
 import java.util.*;

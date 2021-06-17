@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/lemonade-change/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/lemonade-change/
 */
 
 import java.util.*;

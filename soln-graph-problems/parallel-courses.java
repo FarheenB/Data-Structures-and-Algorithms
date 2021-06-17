@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/parallel-courses
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/parallel-courses
 */
 
 import java.util.*;

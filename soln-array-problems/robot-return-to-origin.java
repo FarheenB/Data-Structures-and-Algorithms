@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/robot-return-to-origin/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/robot-return-to-origin/
 */
 
 import java.util.*;

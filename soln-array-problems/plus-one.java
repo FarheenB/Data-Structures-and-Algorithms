@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/plus-one/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/plus-one/
 */
 
 import java.util.*;

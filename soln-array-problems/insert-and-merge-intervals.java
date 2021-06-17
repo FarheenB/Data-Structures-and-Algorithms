@@ -1,5 +1,8 @@
-/*
-https://www.interviewbit.com/problems/merge-intervals/
+/** 
+ @author Farheen Bano
+  
+ Reference-
+ https://www.interviewbit.com/problems/merge-intervals/
 */
 
 import java.util.*;

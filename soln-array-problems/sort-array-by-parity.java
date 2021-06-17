@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/sort-array-by-parity/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/sort-array-by-parity/
 */
 
 import java.util.*;

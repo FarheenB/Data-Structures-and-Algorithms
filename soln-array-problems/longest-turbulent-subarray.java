@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/longest-turbulent-subarray/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/longest-turbulent-subarray/
 */
 
 import java.util.*;

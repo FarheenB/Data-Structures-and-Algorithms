@@ -1,7 +1,7 @@
 /**
  @author Farheen Bano
   
- References-
+ Reference-
  https://leetcode.com/problems/minimum-path-sum/
  
  Note: You can only move either down or right at any point in time.

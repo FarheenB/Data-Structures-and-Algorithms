@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
 */
 
 import java.util.*;

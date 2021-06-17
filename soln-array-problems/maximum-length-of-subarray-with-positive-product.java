@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/length-of-longest-subarray-with-positive-product/
-https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/length-of-longest-subarray-with-positive-product/
+ https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/
 */
 
 class Solution {

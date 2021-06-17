@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/majority-element/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/majority-element/
 */
 
 import java.util.*;

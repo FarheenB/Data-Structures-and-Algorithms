@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 */
 
 import java.util.*;

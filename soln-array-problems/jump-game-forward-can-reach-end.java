@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/jump-game/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/jump-game/
 */
 
 import java.io.*;

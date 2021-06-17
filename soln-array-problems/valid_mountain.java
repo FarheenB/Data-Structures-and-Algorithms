@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/valid-mountain-array/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/valid-mountain-array/
 */
 
 import java.util.*;

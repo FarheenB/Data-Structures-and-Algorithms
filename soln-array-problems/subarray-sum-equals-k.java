@@ -1,6 +1,9 @@
-/*
-https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/
-https://leetcode.com/problems/subarray-sum-equals-k/
+/**
+ @author Farheen Bano
+  
+ References-
+ https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/
+ https://leetcode.com/problems/subarray-sum-equals-k/
 */
 
 import java.util.*;

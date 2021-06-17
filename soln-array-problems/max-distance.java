@@ -1,5 +1,8 @@
-/*
-https://www.interviewbit.com/problems/max-distance/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://www.interviewbit.com/problems/max-distance/
 */
 
 import java.util.*;

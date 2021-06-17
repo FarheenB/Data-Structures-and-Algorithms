@@ -1,7 +1,10 @@
-/*
-https://leetcode.com/problems/product-of-array-except-self/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/product-of-array-except-self/
 
-Note: Solve it without division and in O(n).
+ Note: Solve it without division and in O(n).
 */
 
 import java.util.*;

@@ -1,5 +1,8 @@
-/*
-https://leetcode.com/problems/maximum-subarray/
+/**
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/maximum-subarray/
 */
 
 import java.util.*;
