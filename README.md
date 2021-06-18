@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=TE5BCE2292GYA)
+
 # Data Structures and Algorithms
 This respository is a collection of readable and clean implementation of data structures and algorithms in JAVA. This is a work in progress, so some algorithms may not be included. You can find the optimised solution to 500+ popular problems from Leetcode, Geeksforgeeks, Interviewbit etc. 
 If you have any questions, requests, or find any error in the provided solutions, please don't hesitate to contact me (my contact information is at the bottom of this file). If you find this repository helpful, I would like to know :) 
@@ -269,3 +272,13 @@ Similar to brute force, try to generate all possible solutions, but each time yo
 Farheen Bano - farheenbano94@gmail.com
 
 <img src="https://user-images.githubusercontent.com/59408650/121718622-1eac9f00-cb00-11eb-9688-47ebd1cad51f.png" width="30" height="30">
+
+## License
+
+This repository is released under the [MIT license](https://opensource.org/licenses/MIT). In short, this means you are free to use this software in any personal, open-source or commercial projects. Attribution is optional but appreciated.
+
+## Donate
+
+Consider donating to support my creation of educational content:
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=TE5BCE2292GYA)
