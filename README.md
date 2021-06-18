@@ -23,8 +23,8 @@ If you have any questions, requests, or find any error in the provided solutions
 ## Algorithms
 
 ### Algorithms by Topic
-* Math
-  -
+* ### Math
+  
   - [Bit Manipulation](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-bit-manipulation-problems)
   - [Broken Calculator](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-math-problems/broken-calculator.java)
   - [Reverse Integer](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-math-problems/reverse-integer.java)
@@ -42,11 +42,11 @@ If you have any questions, requests, or find any error in the provided solutions
   - Square Root
   - [Reduce Number to 0](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-math-problems/number-of-steps-to-reduce-a-number-to-zero.java)
   
-* Recursion
-  -
+* ### Recursion
   
-* Strings
-  -
+  
+* ### Strings
+  
   - [Lowercase](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-string-problems/to-lower-case-string.java)
   - [Change string cases](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-string-problems/change-string-cases.java)
   - [Shortest way to form string](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-string-problems/shortest-way-to-form-string.java)
@@ -81,13 +81,13 @@ If you have any questions, requests, or find any error in the provided solutions
   - [Detect Capital](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-string-problems/detect-capital.java)
   - [Word Break](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-string-problems/word-break.java)
   
-* Searching
-  -
+* ### Searching
+  
   - Linear Search
   - [Binary Search](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-binary-search-problems)
   
-* Sorting
-  -
+* ### Sorting
+  
   - [Selection Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Selection-Sort.java)
   - [Bubble Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Bubble-Sort.java)
   - [Insertion Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Insertion-Sort.java)
@@ -96,8 +96,8 @@ If you have any questions, requests, or find any error in the provided solutions
   - [Heap Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Heap-Sort.java)
   - [Pancake Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/pancake-sorting.java)
 
-* Sliding Window
-  -
+* ### Sliding Window
+  
   - [Find all anagrams in a string](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/find-all-anagrams-in-a-string.java)
   - [Longest k unique characters substring](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/longest-k-unique-characters-substring.java)
   - [Longest continuous subarray with absolute diff less than or equal to limit](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/longest-subarray-abs-diff-less-than-equal-to-k.java)
@@ -123,30 +123,8 @@ If you have any questions, requests, or find any error in the provided solutions
   - [Count number of nice subarray](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/count-number-of-nice-subarrays.java)
   - [Fruit into baskets](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/fruit-into-baskets.java)
   
-* Heaps
-  -
-  - [k closest elements](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/k-closest-elements.java)
-  - [k closest points to origin](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/k-closest-points-to-origin-with-max-heap.java)
-  - [k largest elements with max heap](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/k-largest-elements-with-max-heap.java)
-  - [k largest element with min heap](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/k-largest-elements-with-min-heap.java)
-  - [k pairs with smallest sums](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/k-pairs-with-smallest-sums.java)
-  - [k top frequent elements](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/k-top-frequent-elements-with-min-heap.java)
-  - [k top frequent words](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/top-k-frequent-words.java)
-  - [k weakest rows in a matrix](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/k-weakest-rows-in-a-matrix.java)
-  - [kth largest element in a stream](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/kth-largest-element-in-a-stream-with-min-heap.java)
-  - [kth largest element in a array](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/kth-largest-element-in-an-array-with-min-heap.java)
-  - [kth largest sum in continuius subarray](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/kth-largest-sum-contiguous-subarray.java)
-  - [kth smallest element in a array](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/kth-smallest-element-in-the-array-with-max-heap.java)
-  - [Sort a k sorted array](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/sort-a-k-sorted-array.java)
-  - [Sort array by increasing frequency](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/sort-array-by-increasing-frequency-with-min-heap.java)
-  - [Sort characters by frequency](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/sort-characters-by-frequency-with-max-heap.java)
-  - [Largest values from labels](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/largest-values-from-labels.java)
-  - [Minimum cost of ropes](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/minimum-cost-of-ropes.java)
-  - [Minimum cost to connect sticks](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/minimum-cost-to-connect-sticks.java)
-  - [Sliding window median](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/sliding-window-median.java)
+* #### Linked Lists
   
-* Linked Lists
-  - 
   - [Delete node](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/delete-a-node.java)
   - [Reverse linkedlist](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/reverse-linked-list.java)
   - [Swap nodes in pairs](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/swap-nodes-in-pairs.java)
@@ -164,8 +142,8 @@ If you have any questions, requests, or find any error in the provided solutions
   - [Add 2 numbers](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/add-two-numbers-represented-as-linked-list.java) 
   - [Add 2 polynomials](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/add-two-polynomials-represented-as-linked-lists.java) 
  
-* Trees
-  -
+* ### Trees
+  
   - **Binary Tree Traversal**
     - [Inorder](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-tree-binary-problems/traversal-inorder-binary-tree.java)
     - [Preorder](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-tree-binary-problems/traversal-preorder-binary-tree.java)
@@ -200,8 +178,8 @@ If you have any questions, requests, or find any error in the provided solutions
     - [Insert in BST](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-tree-binary-problems/insert-node-binary-search-tree.java)
     - [Delete in BST](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-tree-binary-problems/delete-node-binary-search-tree.java)
     
-* Graphs
-  -
+* ### Graphs
+  
   - **Graph Traversal**
     - [Breadth-First Search](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-graph-problems/bfs-traversal-of-graph.java)
     - [Depth-First Search](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-graph-problems/all-paths-from-source-to-target-using-dfs.java)
@@ -227,18 +205,41 @@ If you have any questions, requests, or find any error in the provided solutions
     - [Kosaraju's Algorithm](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-graph-problems/strongly-connected-components-kosarajus-algo.java)
   - [Bipartite Graph](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-graph-problems/is-graph-bipartite.java)
 
+* ### Heaps
+  
+  - [k closest elements](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/k-closest-elements.java)
+  - [k closest points to origin](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/k-closest-points-to-origin-with-max-heap.java)
+  - [k largest elements with max heap](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/k-largest-elements-with-max-heap.java)
+  - [k largest element with min heap](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/k-largest-elements-with-min-heap.java)
+  - [k pairs with smallest sums](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/k-pairs-with-smallest-sums.java)
+  - [k top frequent elements](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/k-top-frequent-elements-with-min-heap.java)
+  - [k top frequent words](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/top-k-frequent-words.java)
+  - [k weakest rows in a matrix](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/k-weakest-rows-in-a-matrix.java)
+  - [kth largest element in a stream](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/kth-largest-element-in-a-stream-with-min-heap.java)
+  - [kth largest element in a array](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/kth-largest-element-in-an-array-with-min-heap.java)
+  - [kth largest sum in continuius subarray](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/kth-largest-sum-contiguous-subarray.java)
+  - [kth smallest element in a array](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/kth-smallest-element-in-the-array-with-max-heap.java)
+  - [Sort a k sorted array](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/sort-a-k-sorted-array.java)
+  - [Sort array by increasing frequency](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/sort-array-by-increasing-frequency-with-min-heap.java)
+  - [Sort characters by frequency](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/sort-characters-by-frequency-with-max-heap.java)
+  - [Largest values from labels](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/largest-values-from-labels.java)
+  - [Minimum cost of ropes](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/minimum-cost-of-ropes.java)
+  - [Minimum cost to connect sticks](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/minimum-cost-to-connect-sticks.java)
+  - [Sliding window median](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/sliding-window-median.java)
+  - [Find median from data stream](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/find-median-from-data-stream.java)
+
 ### Algorithms by Paradigm
 
-* Divide and Conquer 
-  -
-Divides the problem into smaller parts and then solve those parts
+* ### Divide and Conquer 
+  Divides the problem into smaller parts and then solve those parts
+  
   - [Binary Search](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-binary-search-problems)
   - [Merge Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Merge-Sort.java)
   - [Quick Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Quick-Sort.java)
 
-* Greedy Approach
-  -
-Chooses the best option at the current time, without any consideration for the future
+* ### Greedy Approach
+  Chooses the best option at the current time, without any consideration for the future
+
   - [Jump Game](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/b23a355c8b8b42efd3409e19742480cb8fe2b5fb/soln-array-problems/jump-game-forward-can-reach-end.java)
   -[Dijkstra's Algorithm](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-graph-problems/shortest-dist-from-source-to-all-nodes-in-undirected-weighted-graph-using-dijkstras-algo.java)
   - [Kruskal's Algorithm](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-graph-problems/minimum-spanning-tree-using-kruskals-algo.java)
@@ -246,9 +247,9 @@ Chooses the best option at the current time, without any consideration for the f
   - [Circular Gas Station](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-greedy-problems/circular-gas-station.java)
   - [Partition Labels](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-greedy-problems/partition-labels.java)
   
-* Dynamic Programming
-  -
-Builds solution using previously found sub-solutions
+* ### Dynamic Programming
+  Builds solution using previously found sub-solutions
+ 
   - [Fibonacci Series](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/fibonacci-series.java)
   - [Climbing Stairs](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/climbing-stairs.java)
   - [Decode Ways](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/decode-ways.java)
@@ -278,9 +279,9 @@ Builds solution using previously found sub-solutions
   - Floyd-Warshall
   - [Unique BST](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/unique-binary-search-trees.java)
 
-* Backtracking
-  -
-Similar to brute force, try to generate all possible solutions, but each time you generate next solution you test if it satisfies all conditions, and only then continue generating subsequent solutions. Otherwise, backtrack, and go on a different path of finding a solution. 
+* ### Backtracking
+  Similar to brute force, try to generate all possible solutions, but each time you generate next solution you test if it satisfies all conditions, and only then continue generating subsequent solutions. Otherwise, backtrack, and go on a different path of finding a solution. 
+  
   - [Permutations(with repetitions)](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-backtracking-problems/permutations.java)
   - [Permutations(without repetitions)](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-backtracking-problems/permutations-ii.java)
   - [Combinations](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-backtracking-problems/combinations.java)
@@ -289,7 +290,7 @@ Similar to brute force, try to generate all possible solutions, but each time yo
   - [N-Queens Problem](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-backtracking-problems/n-queen-problem.java)
 
 ### Miscellaneous
-* [Design Problems](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-design-problems)
+* ### [Design Problems](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-design-problems)
 
 ## Developed By
 
