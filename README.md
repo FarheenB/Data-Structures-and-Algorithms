@@ -9,7 +9,7 @@ If you have any questions, requests, or find any error in the provided solutions
 
 ## Table of Contents
 
-## Data Structures
+### Data Structures
 * [Arrays](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-array-problems)
 * [Linked Lists](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-linkedlist-problems)
 * [Stacks](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-stack-problems)
@@ -20,9 +20,10 @@ If you have any questions, requests, or find any error in the provided solutions
 * [Graphs](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-graph-problems)
 * [Heaps](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-heap-problems)
 
-## Algorithms
+### Algorithms
 
-### Algorithms by Topic
+#### Algorithms by Topic:
+
 * ### Math
   
   - [Bit Manipulation](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-bit-manipulation-problems)
@@ -153,9 +154,9 @@ If you have any questions, requests, or find any error in the provided solutions
   
   - [Tower of Hanoi](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-recursion-problems/c-program-for-tower-of-hanoi.java)
   - [Reverse stack](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/be47d58c5cc96a9fdae37bd12837d4560661a98f/soln-stack-problems/reverse-a-stack-using-recursion.java)
-  - [Game of Death](Josephus Problem)(https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-recursion-problems/game-of-death-in-a-circle-josephus-prob.java)
+  - [Game of Death(Josephus Problem)](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-recursion-problems/game-of-death-in-a-circle-josephus-prob.java)
   
-* #### Linked Lists
+* ### Linked Lists
   
   - [Delete node](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/delete-a-node.java)
   - [Reverse linkedlist](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-linkedlist-problems/reverse-linked-list.java)
@@ -203,7 +204,7 @@ If you have any questions, requests, or find any error in the provided solutions
   - [Maximum Height](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-tree-binary-problems/maximum-height-binary-tree.java)
   - [Maximum Level Sum](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-tree-binary-problems/maximum-level-sum-binary-tree.java)
   - [Maximum Path Sum](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-tree-binary-problems/maximum-path-sum-binary-tree.java) 
-  - Binary Search Tree
+  - **Binary Search Tree**
     - [Create BST](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-binary-trees-problems/convert-sorted-list-to-binary-search-tree.java) 
     - [Validate BST](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-tree-binary-problems/is-valid-binary-search-tree.java)
     - [Search BST](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-tree-binary-problems/search-in-a-binary-search-tree.java)
@@ -267,7 +268,7 @@ If you have any questions, requests, or find any error in the provided solutions
   - [Sliding window median](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/sliding-window-median.java)
   - [Find median from data stream](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/find-median-from-data-stream.java)
 
-### Algorithms by Paradigm
+#### Algorithms by Paradigm:
 
 * ### Divide and Conquer 
   Divides the problem into smaller parts and then solve those parts
@@ -329,7 +330,12 @@ If you have any questions, requests, or find any error in the provided solutions
   - [N-Queens Problem](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-backtracking-problems/n-queen-problem.java)
 
 ### Miscellaneous
-* ### [Design Problems](https://github.com/FarheenB/Data-Structures-and-Algorithms/tree/main/soln-design-problems)
+* ### Design Problems
+
+  - [LRU cache](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-design-problems/LRU-cache.java)
+  - [LFU cache](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-design-problems/LFU-cache.java)
+  - [Min stack](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-design-problems/min-stack.java)
+  - [Peeking iterator](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-design-problems/peeking-iterator.java)
 
 ## Developed By
 
