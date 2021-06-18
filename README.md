@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=TE5BCE2292GYA)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/farheenbano94)
 
 # Data Structures and Algorithms
 This respository is a collection of readable and clean implementation of data structures and algorithms in JAVA. This is a work in progress, so some algorithms may not be included. You can find the optimised solution to 500+ popular problems from Leetcode, Geeksforgeeks, Interviewbit etc. 
@@ -281,4 +281,4 @@ This repository is released under the [MIT license](https://opensource.org/licen
 
 Consider donating to support my creation of educational content:
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=TE5BCE2292GYA)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/farheenbano94)
