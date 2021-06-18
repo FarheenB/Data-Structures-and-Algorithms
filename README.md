@@ -341,7 +341,7 @@ If you have any questions, requests, or find any error in the provided solutions
 
 Farheen Bano - farheenbano94@gmail.com
 
-<img src="https://user-images.githubusercontent.com/59408650/121718622-1eac9f00-cb00-11eb-9688-47ebd1cad51f.png" width="30" height="30">
+<a href="https://www.linkedin.com/in/farheen-bano/"><img src="https://user-images.githubusercontent.com/59408650/121718622-1eac9f00-cb00-11eb-9688-47ebd1cad51f.png" width="30" height="30"></a>
 
 ## License
 
