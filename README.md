@@ -1,5 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/farheenbano94)
+[![Donate](https://img.shields.io/badge/Donate-GPay-orange.svg)]()
+
 
 # Data Structures and Algorithms
 This respository is a collection of readable and clean implementation of data structures and algorithms in JAVA. This is a work in progress, so some algorithms may not be included. You can find the optimised solution to 500+ popular problems from Leetcode, Geeksforgeeks, Interviewbit etc. 
@@ -120,6 +122,28 @@ If you have any questions, requests, or find any error in the provided solutions
   - [First negative integer in every window of size k](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/first-negative-integer-in-every-window-of-size-k.java)
   - [Count number of nice subarray](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/count-number-of-nice-subarrays.java)
   - [Fruit into baskets](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/fruit-into-baskets.java)
+  
+* Heaps
+  -
+  - [k closest elements](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/k-closest-elements.java)
+  - [k closest points to origin](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/k-closest-points-to-origin-with-max-heap.java)
+  - [k largest elements with max heap](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/k-largest-elements-with-max-heap.java)
+  - [k largest element with min heap](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/k-largest-elements-with-min-heap.java)
+  - [k pairs with smallest sums](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/k-pairs-with-smallest-sums.java)
+  - [k top frequent elements](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/k-top-frequent-elements-with-min-heap.java)
+  - [k top frequent words](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/top-k-frequent-words.java)
+  - [k weakest rows in a matrix](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/k-weakest-rows-in-a-matrix.java)
+  - [kth largest element in a stream](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/kth-largest-element-in-a-stream-with-min-heap.java)
+  - [kth largest element in a array](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/kth-largest-element-in-an-array-with-min-heap.java)
+  - [kth largest sum in continuius subarray](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/kth-largest-sum-contiguous-subarray.java)
+  - [kth smallest element in a array](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/kth-smallest-element-in-the-array-with-max-heap.java)
+  - [Sort a k sorted array](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/sort-a-k-sorted-array.java)
+  - [Sort array by increasing frequency](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/sort-array-by-increasing-frequency-with-min-heap.java)
+  - [Sort characters by frequency](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/sort-characters-by-frequency-with-max-heap.java)
+  - [Largest values from labels](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/largest-values-from-labels.java)
+  - [Minimum cost of ropes](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/minimum-cost-of-ropes.java)
+  - [Minimum cost to connect sticks](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/minimum-cost-to-connect-sticks.java)
+  - [Sliding window median](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-heap-problems/sliding-window-median.java)
   
 * Linked Lists
   - 
