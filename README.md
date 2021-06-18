@@ -41,10 +41,7 @@ If you have any questions, requests, or find any error in the provided solutions
   - [kth row of Pascal's Triangle](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/b23a355c8b8b42efd3409e19742480cb8fe2b5fb/soln-math-problems/kth-row-of-pascals-triangle.java)
   - Square Root
   - [Reduce Number to 0](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-math-problems/number-of-steps-to-reduce-a-number-to-zero.java)
-  
-* ### Recursion
-  
-  
+
 * ### Strings
   
   - [Lowercase](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-string-problems/to-lower-case-string.java)
@@ -81,6 +78,34 @@ If you have any questions, requests, or find any error in the provided solutions
   - [Detect Capital](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-string-problems/detect-capital.java)
   - [Word Break](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-string-problems/word-break.java)
   
+* ### Stack
+
+  - [Valid parentheses](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/valid-parentheses.java)
+  - [Minimum remove to make valid parentheses](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/minimum-remove-to-make-valid-parentheses.java)
+  - [Minimum add to make valid parentheses](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/minimum-add-to-make-parentheses-valid.java)
+  - [Longest valid parentheses](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/longest-valid-parentheses.java)
+  - [Score of parentheses](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/score-of-parentheses.java)
+  - [Validate stack sequences](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/validate-stack-sequences.java)
+  - [Backspace string compare](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/backspace-string-compare.java)
+  - [Evaluate reverse polish notation](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/evaluate-reverse-polish-notation.java)
+  - [Sum of subarray minimums](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/sum-of-subarray-minimums.java)
+  - [Simplify path](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/simplify-path.java)
+  - [Delete middle element of stack](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/delete-middle-element-of-a-stack.java)
+  - [Remove duplicate letters](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/remove-duplicate-letters.java)
+  - [Remove all adjacent duplicates](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/remove-all-adjacent-duplicates-in-string.java)
+  - [Remove all k adjacent duplicates](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/remove-all-adjacent-duplicates-in-string-ii.java)
+  - [Daily temperatures](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/daily-temperatures.java)
+  - [Array burst problem](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/array-burst-problem.java)
+  - [Online stock span](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/online-stock-span.java)
+  - [Nearest greater left](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/nearest-greater-left.java)
+  - [Nearest greater right](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/nearest-greater-right.java)
+  - [Nearest greater right circular array](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/nearest-greater-right-circular-array.java)
+  - [Nearest smaller left](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/nearest-smaller-left.java)
+  - [Nearest smaller right](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/nearest-smaller-right.java)
+  - [Next greater element](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/next-greater-element-i.java)
+  - [Next greater element circular array](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/next-greater-element-ii.java)
+  - [Largest rectangle in histogram](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-stack-problems/largest-rectangle-in-histogram.java)
+ 
 * ### Searching
   
   - Linear Search
@@ -96,7 +121,7 @@ If you have any questions, requests, or find any error in the provided solutions
   - [Heap Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/Heap-Sort.java)
   - [Pancake Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sorting-algo/pancake-sorting.java)
 
-* ### Sliding Window
+* ### Sliding Window (Two Pointers)
   
   - [Find all anagrams in a string](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/find-all-anagrams-in-a-string.java)
   - [Longest k unique characters substring](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/longest-k-unique-characters-substring.java)
@@ -115,6 +140,7 @@ If you have any questions, requests, or find any error in the provided solutions
   - [Minimum operations to reduce x to zero](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/minimum-operations-to-reduce-x-to-zero.java)
   - [Minimum window subsequence](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/minimum-window-subsequence.java)
   - [Minimum window substring](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/minimum-window-substring.java)
+  - [Permutation in string]()
   - [Repeated DNA sequences](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/repeated-dna-sequences.java)
   - [Sliding window median](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/sliding-window-median.java)
   - [Subarray with given sum](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/positive-integers-subarray-with-given-sum-s.java)
@@ -122,6 +148,12 @@ If you have any questions, requests, or find any error in the provided solutions
   - [First negative integer in every window of size k](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/first-negative-integer-in-every-window-of-size-k.java)
   - [Count number of nice subarray](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/count-number-of-nice-subarrays.java)
   - [Fruit into baskets](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-sliding-window-problems/fruit-into-baskets.java)
+
+* ### Recursion
+  
+  - [Tower of Hanoi](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-recursion-problems/c-program-for-tower-of-hanoi.java)
+  - [Reverse stack](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/be47d58c5cc96a9fdae37bd12837d4560661a98f/soln-stack-problems/reverse-a-stack-using-recursion.java)
+  - [Game of Death](Josephus Problem)(https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-recursion-problems/game-of-death-in-a-circle-josephus-prob.java)
   
 * #### Linked Lists
   
@@ -178,6 +210,13 @@ If you have any questions, requests, or find any error in the provided solutions
     - [Insert in BST](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-tree-binary-problems/insert-node-binary-search-tree.java)
     - [Delete in BST](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-tree-binary-problems/delete-node-binary-search-tree.java)
     
+* ### Trie
+
+  - [Implement trie prefix tree](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/be47d58c5cc96a9fdae37bd12837d4560661a98f/soln-trie-problems/implement-trie-prefix-tree.java)
+  - [Longest common prefix](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/be47d58c5cc96a9fdae37bd12837d4560661a98f/soln-trie-problems/longest-common-prefix.java)
+  - [Longest common prefix case sensitive](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/be47d58c5cc96a9fdae37bd12837d4560661a98f/soln-trie-problems/longest-common-prefix-case-sensitive.java) 
+  - [Shortest unique prefix](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/be47d58c5cc96a9fdae37bd12837d4560661a98f/soln-trie-problems/shortest-unique-prefix.java)
+  
 * ### Graphs
   
   - **Graph Traversal**
