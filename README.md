@@ -1,6 +1,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/farheenbano94)
-[![Donate](https://img.shields.io/badge/Donate-GPay-orange.svg)]()
+[![Donate](https://img.shields.io/badge/Donate-GPay-orange.svg)](https://user-images.githubusercontent.com/59408650/122787751-42779e00-d2d3-11eb-9bf6-fcfc5c33b875.jpg)
+
+
+
 
 
 # Data Structures and Algorithms
@@ -352,3 +355,6 @@ This repository is released under the [MIT license](https://opensource.org/licen
 Consider donating to support my creation of educational content:
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/farheenbano94)
+
+
+<a href="https://www.linkedin.com/in/farheen-bano/"><img src="https://user-images.githubusercontent.com/59408650/122787836-59b68b80-d2d3-11eb-8680-89c13b42e541.jpg" width="150" height="150"></a>
