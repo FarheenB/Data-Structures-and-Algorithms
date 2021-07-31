@@ -2,7 +2,7 @@
  @author Farheen Bano
   
  Reference-
- https://www.geeksforgeeks.org/selection-sort/
+ https://practice.geeksforgeeks.org/problems/selection-sort/1
 */
 
 import java.io.*;

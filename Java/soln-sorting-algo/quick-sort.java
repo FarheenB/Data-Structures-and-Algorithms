@@ -2,7 +2,7 @@
  @author Farheen Bano
   
  Reference-
- https://www.geeksforgeeks.org/quick-sort/
+ https://practice.geeksforgeeks.org/problems/quick-sort/1
 */
 
 import java.io.*;
