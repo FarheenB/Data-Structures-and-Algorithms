@@ -219,7 +219,7 @@ If you have any questions, requests, or find any error in the provided solutions
     - [BFS](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-graph-problems/shortest-dist-from-source-to-all-nodes-in-undirected-unweighted-graph-using-bfs.java)
     - [Dijkstra's Algorithm](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-graph-problems/shortest-dist-from-source-to-all-nodes-in-undirected-weighted-graph-using-dijkstras-algo.java)
     - Bellman-Ford
-    - Floyd-Warshall
+    - [Floyd-Warshall](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-graph-problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance-using-floyd-warshall.java)
     - Johnson's Algorithm
   - **Minimum Spanning Tree**
     - [Kruskal's Algorithm](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-graph-problems/minimum-spanning-tree-using-kruskals-algo.java)
@@ -308,7 +308,7 @@ If you have any questions, requests, or find any error in the provided solutions
   - [Boolean Parenthesization](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/boolean-parenthesization.java)
   - [Scramble String](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/scramble_string.java)
   - Bellman-Ford
-  - Floyd-Warshall
+  - [Floyd-Warshall](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-graph-problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance-using-floyd-warshall.java)
   - [Unique BST](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/soln-dynamic-programming-problems/unique-binary-search-trees.java)
 
 * ### Backtracking
