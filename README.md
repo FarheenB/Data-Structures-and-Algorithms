@@ -1,6 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Java](https://img.shields.io/badge/Java-8-orange.svg)
 ![C++](https://img.shields.io/badge/C++-20-blue.svg)
+![Python](https://img.shields.io/badge/Python-3-yellow.svg)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/farheenbano94)
 
 # Data Structures and Algorithms
