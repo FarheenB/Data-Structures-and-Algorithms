@@ -14,16 +14,18 @@ class Solution {
         Arrays.sort(nums);
         List<List<Integer>> subsets=new ArrayList<>();
         generateSubsets(0,nums, new ArrayList<Integer>(),subsets);
-        return subsets;        
+        return subsets;
+        
     }
     
-    public void generateSubsets(int index, int[] nums, List<Integer> current, List<List<Integer>> subsets){
-        if(!subsets.contains(current))
-            subsets.add(new ArrayList<>(current));
+    public void generateSubsets(int index, int[] nums, List<Integer> cur, List<List<Integer>> subsets){
+        subsets.add(new ArrayList<>(cur));
         for(int i=index;i<nums.length;i++){
-            current.add(nums[i]);
-            generateSubsets(i+1,nums,current,subsets);
-            current.remove(current.size()-1);
+            if(i>index && nums[i]==nums[i-1])
+                continue;
+            cur.add(nums[i]);
+            generateSubsets(i+1,nums,cur,subsets);
+            cur.remove(cur.size()-1);
         }
     }
 }

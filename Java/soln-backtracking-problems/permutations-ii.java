@@ -11,26 +11,31 @@ import java.lang.*;
 import java.io.*;
 
 class Solution {
+    HashMap<Integer,Integer> counts=new HashMap<>();
     public List<List<Integer>> permuteUnique(int[] nums) {
         List<List<Integer>> result=new ArrayList<>();
-        possiblePermutation(nums,new ArrayList<>(),new ArrayList<>(),result);
+        
+        HashMap<Integer,Integer> counter=new HashMap<>();
+        for(int num:nums)
+            counter.put(num,counter.getOrDefault(num,0)+1);    
+        
+        possiblePermutation(nums,new ArrayList<>(),counter,result);
         return result;
     }    
     
-    public void possiblePermutation(int nums[], List<Integer> arrangement,List<Integer> occur_indx, List<List<Integer>> result){
-        if(arrangement.size()==nums.length && !result.contains(arrangement)){
-            result.add(new ArrayList<>(arrangement));
-        }
+    public void possiblePermutation(int nums[], List<Integer> cur,HashMap<Integer,Integer> counter, List<List<Integer>> result){
+        if(cur.size()==nums.length)
+            result.add(new ArrayList<>(cur));
+        
         else{
-            for(int i=0;i<nums.length;i++){
-                if(occur_indx.contains(i))
-                    continue;
-                
-                arrangement.add(nums[i]);
-                occur_indx.add(i);
-                possiblePermutation(nums,arrangement,occur_indx,result);
-                arrangement.remove(arrangement.size()-1);
-                occur_indx.remove(occur_indx.size()-1);
+            for(int num : counter.keySet()){
+                if(counter.get(num) > 0){
+                    counter.put(num,counter.get(num)-1);
+                    cur.add(num);
+                    possiblePermutation(nums,cur,counter,result);
+                    cur.remove(cur.size()-1);
+                    counter.put(num,counter.get(num)+1);
+                }
             }
         }
     }    

@@ -17,12 +17,12 @@ class Solution {
         
     }
     
-    public void generateSubsets(int index, int[] nums, List<Integer> current, List<List<Integer>> subsets){
-        subsets.add(new ArrayList<>(current));
+    public void generateSubsets(int index, int[] nums, List<Integer> cur, List<List<Integer>> subsets){
+        subsets.add(new ArrayList<>(cur));
         for(int i=index;i<nums.length;i++){
-            current.add(nums[i]);
-            generateSubsets(i+1,nums,current,subsets);
-            current.remove(current.size()-1);
+            cur.add(nums[i]);
+            generateSubsets(i+1,nums,cur,subsets);
+            cur.remove(cur.size()-1);
         }
     }
 }

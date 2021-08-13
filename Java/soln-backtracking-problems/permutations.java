@@ -15,19 +15,19 @@ class Solution {
         List<List<Integer>> result=new ArrayList<>();
         possiblePermutation(nums,new ArrayList<>(),result);
         return result;
-    }    
+    }
     
-    public void possiblePermutation(int nums[], List<Integer> arrangement, List<List<Integer>> result){
-        if(arrangement.size()==nums.length){
-            result.add(new ArrayList<>(arrangement));
-        }
+    public void possiblePermutation(int nums[], List<Integer> cur, List<List<Integer>> result){
+        if(cur.size()==nums.length)
+            result.add(new ArrayList<>(cur));
+        
         else{
             for(int i=0;i<nums.length;i++){
-                if(arrangement.contains(nums[i]))
+                if(cur.contains(nums[i]))
                     continue;
-                arrangement.add(nums[i]);
-                possiblePermutation(nums,arrangement,result);
-                arrangement.remove(arrangement.size()-1);
+                cur.add(nums[i]);
+                possiblePermutation(nums,cur,result);
+                cur.remove(cur.size()-1);
             }
         }
     }    
