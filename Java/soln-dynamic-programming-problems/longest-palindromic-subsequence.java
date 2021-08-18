@@ -4,7 +4,12 @@
  References-
  https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/
  https://leetcode.com/problems/longest-palindromic-subsequence/
-*/
+
+ NOTE: Variation of Longest Common Subsequence
+*/ 
+
+//------------------------------------------------------------------------------
+//Tabulation Approach
 
 import java.util.*;
 import java.lang.*;
