@@ -22,6 +22,7 @@ class Solution {
             if(map.get(key)%2!=0)
                 flag++;
         }
+        
         return flag>0?s.length()-flag+1:s.length();
     }
 }

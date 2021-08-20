@@ -33,9 +33,9 @@ class Solution {
             for(int j=0;j<=m;j++){
                 if(i==0 || j==0)
                     dp[i][j]=0;
-                else if(str1[i-1]==str2[j-1]){
+                else if(str1[i-1]==str2[j-1])
                     dp[i][j]=1+dp[i-1][j-1];
-                }
+                
                 else 
                     dp[i][j]=Math.max(dp[i][j-1],dp[i-1][j]);
             }

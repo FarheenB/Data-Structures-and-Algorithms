@@ -15,7 +15,7 @@ class Solution {
     }
     
     public void generateSubsets(int index, int[] candidates, List<Integer> cur, List<List<Integer>> subsets, int target){
-        if(target==0){
+        if(target==0) {
             subsets.add(new ArrayList<>(cur));
             return;
         }
@@ -23,9 +23,10 @@ class Solution {
         if(target<0)
             return;
         
-        for(int i=index;i<candidates.length;i++){
+        for(int i=index;i<candidates.length;i++) {
             if(i>index && candidates[i]==candidates[i-1])
                 continue;
+            
             cur.add(candidates[i]);
             generateSubsets(i+1,candidates,cur,subsets,target-candidates[i]);
             cur.remove(cur.size()-1);
