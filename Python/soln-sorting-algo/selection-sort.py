@@ -17,5 +17,6 @@ class Solution:
             temp=nums[i]
             nums[i]=nums[min_index]
             nums[min_index]=temp
-            
+
         return nums
+        

@@ -19,3 +19,4 @@ class Solution:
             nums[j+1]=curr
             
         return nums
+        
