@@ -152,6 +152,7 @@
   - [Detect loop](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/Java/soln-linkedlist-problems/detect-loop-in-a-linked-list.java)
   - [Find start of loop](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/Java/soln-linkedlist-problems/find-start-of-loop-in-a-linked-list.java)
   - [Remove duplicates](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/Java/soln-linkedlist-problems/remove-duplicates-from-sorted-list.java)
+  - [Palindrome linkedlist](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/Java/soln-linkedlist-problems/palindrome-linked-list.java)
   - [Remove nth node from end](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/Java/soln-linkedlist-problems/remove-nth-node-from-end-of-list.java)
   - [Sort list with Insertion Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/Java/soln-linkedlist-problems/sort-list-with-insertion-sort.java)
   - [Sort list with Heap Sort](https://github.com/FarheenB/Data-Structures-and-Algorithms/blob/main/Java/soln-linkedlist-problems/sort-list-with-heap-sort.java)
