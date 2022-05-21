@@ -1,60 +1,64 @@
 # Python program to demonstrate
-# stack implementation using a linked list.
-# node class
-
-class Node:
-	def __init__(self, value):
-		self.value = value
-		self.next = None
-
+# stack implementation using a list as array
 
 class Stack:
+    def __init__(self):
+        self.st=[]
 
-	# Initializing a stack.
-	# Use a dummy node, which is
-	# easier for handling edge cases.
-	def __init__(self):
-		self.head = Node("head")
-		self.size = 0
+    def __str__(self):
+        return ' '.join(str(n) for n in self.st)
 
-	# String representation of the stack
-	def __str__(self):
-		cur = self.head.next
-		out = ""
-		while cur:
-			out += str(cur.value) + "->"
-			cur = cur.next
-		return out[:-3]
+    # push operation-insertion in O(1)
+    # pushing data at the top of the stack 
+    # is same as appending data at the end of the list
+    def Push(self,x):
+        self.st.append(x)
+    
+    # popping data from the top of the stack in O(1)
+    # using pop function of list to delete the data from top end 
+    def Pop(self):
+        return self.st.pop()
 
-	# Get the current size of the stack
-	def getSize(self):
-		return self.size
+    # getting the top element from stack in O(1)
+    def Peek(self):
+        return self.st[-1]
 
-	# Check if the stack is empty
-	def isEmpty(self):
-		return self.size == 0
+    def IsEmpty(self):
+        return len(self.st)==0
 
-	# Get the top item of the stack
-	def peek(self):
+# list(array) as stack
+stack=Stack()
 
-		# Sanitary check to see if we
-		# are peeking an empty stack.
-		if self.isEmpty():
-			raise Exception("Peeking from an empty stack")
-		return self.head.next.value
+print("Stack is Empty" if stack.IsEmpty() else "Stack is not Empty")
+stack.Push(5)
+stack.Push(8)
+stack.Push(9)
+print(stack)
 
-	# Push a value into the stack.
-	def push(self, value):
-		node = Node(value)
-		node.next = self.head.next
-		self.head.next = node
-		self.size += 1
+print("Data deleted-> "+ str(stack.Pop()))
+print(stack)
+print("Data deleted-> "+ str(stack.Pop()))
+print(stack)
 
-	# Remove a value from the stack and return.
-	def pop(self):
-		if self.isEmpty():
-			raise Exception("Popping from an empty stack")
-		remove = self.head.next
-		self.head.next = self.head.next.next
-		self.size -= 1
-		return remove.value
+stack.Push(15)
+print(stack)
+stack.Push(8)
+print(stack)
+stack.Push(7)
+print(stack)
+stack.Push(2)
+print(stack)
+
+print("Stack is Empty" if stack.IsEmpty() else "Stack is not Empty")
+
+# print("Top by reverse indexing->",stack[-1])
+# print("Top by size-1 index->",stack[len(stack)-1])
+# print("Deleted data->",stack.pop())
+# print("Top by reverse indexing->",stack[-1])
+# print("Top by size-1 index->",stack[len(stack)-1])
+print("Top element of stack->",str(stack.Peek()))
+
+
+
+
+

@@ -4,17 +4,20 @@
  Reference-
  https://leetcode.com/problems/valid-parentheses/
 '''
-
 class Solution:
-    def isValid(self, s: str) -> bool:    
-        stack = []
+    def isValid(self, s: str) -> bool:
+        stack=[]
+        
         for ch in s:
-            if stack and stack[-1] == '{' and ch == '}':
+            if stack and ch==')' and stack[-1]=='(':
                 stack.pop()
-            elif stack and stack[-1] == '(' and ch == ')':
+        
+            elif stack and ch==']' and stack[-1]=='[':
                 stack.pop()
-            elif stack and stack[-1] == '[' and ch == ']':
+                
+            elif stack and ch=='}' and stack[-1]=='{':
                 stack.pop()
+                
             else:
                 stack.append(ch)
                 

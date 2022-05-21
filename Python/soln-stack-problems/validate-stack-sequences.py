@@ -1,4 +1,9 @@
-# https://leetcode.com/problems/validate-stack-sequences/
+'''
+ @author Farheen Bano
+  
+ Reference-
+ https://leetcode.com/problems/validate-stack-sequences/
+'''
 
 class Solution:
     def validateStackSequences(self, pushed: List[int], popped: List[int]) -> bool:
@@ -11,3 +16,4 @@ class Solution:
                 stack.pop()
                 i+=1 #we are incrementing i
         return True if len(stack) ==0 else False
+        
