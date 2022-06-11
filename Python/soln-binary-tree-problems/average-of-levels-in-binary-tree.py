@@ -4,9 +4,8 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution:
-    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+    def averageOfLevels(self, root: Optional[TreeNode]) -> List[float]:
         res=[]
         
         if root==None:
@@ -16,15 +15,15 @@ class Solution:
         
         while queue:            
             size=len(queue)
-            level_nodes=[]
+            summ=0
 
             for _ in range(size):
          
     #           step 1: remove the cur node
                 cur_node=queue.pop(0)
         
-    #           step 2: add cur node to the cur levels list
-                level_nodes.append(cur_node.val)
+    #           step 2: add cur node to the sum  of cur levels 
+                summ+=cur_node.val
         
     #           step 3: get children of curr node
                 if cur_node.left:
@@ -32,6 +31,12 @@ class Solution:
                 if cur_node.right:
                     queue.append(cur_node.right)
         
-            res.append(level_nodes)
+            res.append(summ/size)
             
         return res
+
+            
+            
+            
+            
+        

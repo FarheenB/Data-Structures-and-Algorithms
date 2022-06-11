@@ -4,9 +4,8 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution:
-    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+    def levelOrderBottom(self, root: Optional[TreeNode]) -> List[List[int]]:
         res=[]
         
         if root==None:
@@ -32,6 +31,7 @@ class Solution:
                 if cur_node.right:
                     queue.append(cur_node.right)
         
-            res.append(level_nodes)
+            res.insert(0,level_nodes)
             
         return res
+        
