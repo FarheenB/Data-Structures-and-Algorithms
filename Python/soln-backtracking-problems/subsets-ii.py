@@ -1,15 +1,23 @@
 class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
-        res = []
         nums.sort()
+        res=[]
+        
+        subset=[]
+        def dfs(i):
+            if i>=len(nums):
+                res.append(subset.copy())
+                return 
+            
+            #  decision to include the element at nums[i]
+            subset.append(nums[i])
+            dfs(i+1)
 
-        def dfs(nums, index, path, res):
-            res.append(path)
-            for i in range(index, len(nums)):
-                if i > index and nums[i] == nums[i-1]:
-                    continue
-                dfs(nums, i+1, path+[nums[i]], res)
-                
-        dfs(nums, 0, [], res)
+            #  decision NOT to include the element at nums[i]
+            subset.pop()
+            while i+1<len(nums) and nums[i]==nums[i+1]:
+                i+=1
+            dfs(i+1)
+        
+        dfs(0)
         return res
-

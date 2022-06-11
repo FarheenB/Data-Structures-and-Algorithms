@@ -1,24 +1,21 @@
 class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
-        res, visited = [], [False]*len(nums)
-        nums.sort()
+        res = []
+        nums = sorted(nums)
+        path = []
         
-        def dfs(nums, visited, path, res):
-            if len(nums) == len(path):
-                res.append(path)
-                return 
+        def dfs(nums):
+            if not nums:
+                res.append(path.copy())
+                return
+            
             for i in range(len(nums)):
-                if not visited[i]: 
-                    if i>0 and not visited[i-1] and nums[i] == nums[i-1]:  # here should pay attention
-                        continue
-                    visited[i] = True
-                    dfs(nums, visited, path+[nums[i]], res)
-                    visited[i] = False
-                    
-       
-        dfs(nums, visited, [], res)
-        return res
+                if i>0 and nums[i]==nums[i-1]:
+                    continue
+                path.append(nums[i])
+                dfs(nums[:i]+nums[i+1:])
+                path.pop() 
     
-        
-
- 
+                    
+        dfs(nums)
+        return res
